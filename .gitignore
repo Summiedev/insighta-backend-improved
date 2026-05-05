@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.db
+.vercel/
+task1.zip
+
+.vercel
+src.zip

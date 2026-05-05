@@ -1,0 +1,28 @@
+{
+  "name": "hngtask02",
+  "version": "2.0.0",
+  "description": "Insighta Labs — Demographic Intelligence Query Engine API",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongodb": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "seed": "node src/seed.js",
+    "stage4b:check": "node stage4b-check-all.js",
+    "stage4b:check:full": "node stage4b-check-all.js --full-csv"
+  },
+  "main": "profileService.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Summiedev/HNG_TASK_02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Summiedev/HNG_TASK_02/issues"
+  },
+  "homepage": "https://github.com/Summiedev/HNG_TASK_02#readme"
+}

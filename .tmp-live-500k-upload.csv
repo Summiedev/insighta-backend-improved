@@ -1,0 +1,1001 @@
+name,gender,gender_probability,age,age_group,country_id,country_name,country_probability
+Stage4B500k-2026-05-05T20-00-42Z-1,male,0.01,18,adult,NG,Nigeria,0.38
+Stage4B500k-2026-05-05T20-00-42Z-2,female,0.02,19,adult,GH,Ghana,0.39
+Stage4B500k-2026-05-05T20-00-42Z-3,male,0.03,20,adult,KE,Kenya,0.40
+Stage4B500k-2026-05-05T20-00-42Z-4,female,0.04,21,adult,ZA,South Africa,0.41
+Stage4B500k-2026-05-05T20-00-42Z-5,male,0.05,22,adult,UG,Uganda,0.42
+Stage4B500k-2026-05-05T20-00-42Z-6,female,0.06,23,adult,TZ,Tanzania,0.43
+Stage4B500k-2026-05-05T20-00-42Z-7,male,0.07,24,adult,SN,Senegal,0.44
+Stage4B500k-2026-05-05T20-00-42Z-8,female,0.08,25,adult,CM,Cameroon,0.45
+Stage4B500k-2026-05-05T20-00-42Z-9,male,0.09,26,adult,NG,Nigeria,0.46
+Stage4B500k-2026-05-05T20-00-42Z-10,female,0.10,27,adult,GH,Ghana,0.47
+Stage4B500k-2026-05-05T20-00-42Z-11,male,0.11,28,adult,KE,Kenya,0.48
+Stage4B500k-2026-05-05T20-00-42Z-12,female,0.12,29,adult,ZA,South Africa,0.49
+Stage4B500k-2026-05-05T20-00-42Z-13,male,0.13,30,adult,UG,Uganda,0.50
+Stage4B500k-2026-05-05T20-00-42Z-14,female,0.14,31,adult,TZ,Tanzania,0.51
+Stage4B500k-2026-05-05T20-00-42Z-15,male,0.15,32,adult,SN,Senegal,0.52
+Stage4B500k-2026-05-05T20-00-42Z-16,female,0.16,33,adult,CM,Cameroon,0.53
+Stage4B500k-2026-05-05T20-00-42Z-17,male,0.17,34,adult,NG,Nigeria,0.54
+Stage4B500k-2026-05-05T20-00-42Z-18,female,0.18,35,adult,GH,Ghana,0.55
+Stage4B500k-2026-05-05T20-00-42Z-19,male,0.19,36,adult,KE,Kenya,0.56
+Stage4B500k-2026-05-05T20-00-42Z-20,female,0.20,37,adult,ZA,South Africa,0.57
+Stage4B500k-2026-05-05T20-00-42Z-21,male,0.21,38,adult,UG,Uganda,0.58
+Stage4B500k-2026-05-05T20-00-42Z-22,female,0.22,39,adult,TZ,Tanzania,0.59
+Stage4B500k-2026-05-05T20-00-42Z-23,male,0.23,40,adult,SN,Senegal,0.60
+Stage4B500k-2026-05-05T20-00-42Z-24,female,0.24,41,adult,CM,Cameroon,0.61
+Stage4B500k-2026-05-05T20-00-42Z-25,male,0.25,42,adult,NG,Nigeria,0.62
+Stage4B500k-2026-05-05T20-00-42Z-26,female,0.26,43,adult,GH,Ghana,0.63
+Stage4B500k-2026-05-05T20-00-42Z-27,male,0.27,44,adult,KE,Kenya,0.64
+Stage4B500k-2026-05-05T20-00-42Z-28,female,0.28,45,adult,ZA,South Africa,0.65
+Stage4B500k-2026-05-05T20-00-42Z-29,male,0.29,46,adult,UG,Uganda,0.66
+Stage4B500k-2026-05-05T20-00-42Z-30,female,0.30,47,adult,TZ,Tanzania,0.67
+Stage4B500k-2026-05-05T20-00-42Z-31,male,0.31,48,adult,SN,Senegal,0.68
+Stage4B500k-2026-05-05T20-00-42Z-32,female,0.32,49,adult,CM,Cameroon,0.69
+Stage4B500k-2026-05-05T20-00-42Z-33,male,0.33,50,adult,NG,Nigeria,0.70
+Stage4B500k-2026-05-05T20-00-42Z-34,female,0.34,51,adult,GH,Ghana,0.71
+Stage4B500k-2026-05-05T20-00-42Z-35,male,0.35,52,adult,KE,Kenya,0.72
+Stage4B500k-2026-05-05T20-00-42Z-36,female,0.36,53,adult,ZA,South Africa,0.73
+Stage4B500k-2026-05-05T20-00-42Z-37,male,0.37,54,adult,UG,Uganda,0.74
+Stage4B500k-2026-05-05T20-00-42Z-38,female,0.38,55,adult,TZ,Tanzania,0.75
+Stage4B500k-2026-05-05T20-00-42Z-39,male,0.39,56,adult,SN,Senegal,0.76
+Stage4B500k-2026-05-05T20-00-42Z-40,female,0.40,57,adult,CM,Cameroon,0.77
+Stage4B500k-2026-05-05T20-00-42Z-41,male,0.41,58,adult,NG,Nigeria,0.78
+Stage4B500k-2026-05-05T20-00-42Z-42,female,0.42,59,adult,GH,Ghana,0.79
+Stage4B500k-2026-05-05T20-00-42Z-43,male,0.43,60,adult,KE,Kenya,0.80
+Stage4B500k-2026-05-05T20-00-42Z-44,female,0.44,61,adult,ZA,South Africa,0.81
+Stage4B500k-2026-05-05T20-00-42Z-45,male,0.45,62,adult,UG,Uganda,0.82
+Stage4B500k-2026-05-05T20-00-42Z-46,female,0.46,63,adult,TZ,Tanzania,0.83
+Stage4B500k-2026-05-05T20-00-42Z-47,male,0.47,64,adult,SN,Senegal,0.84
+Stage4B500k-2026-05-05T20-00-42Z-48,female,0.48,65,adult,CM,Cameroon,0.85
+Stage4B500k-2026-05-05T20-00-42Z-49,male,0.49,66,adult,NG,Nigeria,0.86
+Stage4B500k-2026-05-05T20-00-42Z-50,female,0.50,67,adult,GH,Ghana,0.87
+Stage4B500k-2026-05-05T20-00-42Z-51,male,0.51,68,adult,KE,Kenya,0.88
+Stage4B500k-2026-05-05T20-00-42Z-52,female,0.52,69,adult,ZA,South Africa,0.89
+Stage4B500k-2026-05-05T20-00-42Z-53,male,0.53,70,adult,UG,Uganda,0.90
+Stage4B500k-2026-05-05T20-00-42Z-54,female,0.54,18,adult,TZ,Tanzania,0.91
+Stage4B500k-2026-05-05T20-00-42Z-55,male,0.55,19,adult,SN,Senegal,0.92
+Stage4B500k-2026-05-05T20-00-42Z-56,female,0.56,20,adult,CM,Cameroon,0.93
+Stage4B500k-2026-05-05T20-00-42Z-57,male,0.57,21,adult,NG,Nigeria,0.94
+Stage4B500k-2026-05-05T20-00-42Z-58,female,0.58,22,adult,GH,Ghana,0.95
+Stage4B500k-2026-05-05T20-00-42Z-59,male,0.59,23,adult,KE,Kenya,0.96
+Stage4B500k-2026-05-05T20-00-42Z-60,female,0.60,24,adult,ZA,South Africa,0.97
+Stage4B500k-2026-05-05T20-00-42Z-61,male,0.61,25,adult,UG,Uganda,0.98
+Stage4B500k-2026-05-05T20-00-42Z-62,female,0.62,26,adult,TZ,Tanzania,0.99
+Stage4B500k-2026-05-05T20-00-42Z-63,male,0.63,27,adult,SN,Senegal,1.00
+Stage4B500k-2026-05-05T20-00-42Z-64,female,0.64,28,adult,CM,Cameroon,0.01
+Stage4B500k-2026-05-05T20-00-42Z-65,male,0.65,29,adult,NG,Nigeria,0.02
+Stage4B500k-2026-05-05T20-00-42Z-66,female,0.66,30,adult,GH,Ghana,0.03
+Stage4B500k-2026-05-05T20-00-42Z-67,male,0.67,31,adult,KE,Kenya,0.04
+Stage4B500k-2026-05-05T20-00-42Z-68,female,0.68,32,adult,ZA,South Africa,0.05
+Stage4B500k-2026-05-05T20-00-42Z-69,male,0.69,33,adult,UG,Uganda,0.06
+Stage4B500k-2026-05-05T20-00-42Z-70,female,0.70,34,adult,TZ,Tanzania,0.07
+Stage4B500k-2026-05-05T20-00-42Z-71,male,0.71,35,adult,SN,Senegal,0.08
+Stage4B500k-2026-05-05T20-00-42Z-72,female,0.72,36,adult,CM,Cameroon,0.09
+Stage4B500k-2026-05-05T20-00-42Z-73,male,0.73,37,adult,NG,Nigeria,0.10
+Stage4B500k-2026-05-05T20-00-42Z-74,female,0.74,38,adult,GH,Ghana,0.11
+Stage4B500k-2026-05-05T20-00-42Z-75,male,0.75,39,adult,KE,Kenya,0.12
+Stage4B500k-2026-05-05T20-00-42Z-76,female,0.76,40,adult,ZA,South Africa,0.13
+Stage4B500k-2026-05-05T20-00-42Z-77,male,0.77,41,adult,UG,Uganda,0.14
+Stage4B500k-2026-05-05T20-00-42Z-78,female,0.78,42,adult,TZ,Tanzania,0.15
+Stage4B500k-2026-05-05T20-00-42Z-79,male,0.79,43,adult,SN,Senegal,0.16
+Stage4B500k-2026-05-05T20-00-42Z-80,female,0.80,44,adult,CM,Cameroon,0.17
+Stage4B500k-2026-05-05T20-00-42Z-81,male,0.81,45,adult,NG,Nigeria,0.18
+Stage4B500k-2026-05-05T20-00-42Z-82,female,0.82,46,adult,GH,Ghana,0.19
+Stage4B500k-2026-05-05T20-00-42Z-83,male,0.83,47,adult,KE,Kenya,0.20
+Stage4B500k-2026-05-05T20-00-42Z-84,female,0.84,48,adult,ZA,South Africa,0.21
+Stage4B500k-2026-05-05T20-00-42Z-85,male,0.85,49,adult,UG,Uganda,0.22
+Stage4B500k-2026-05-05T20-00-42Z-86,female,0.86,50,adult,TZ,Tanzania,0.23
+Stage4B500k-2026-05-05T20-00-42Z-87,male,0.87,51,adult,SN,Senegal,0.24
+Stage4B500k-2026-05-05T20-00-42Z-88,female,0.88,52,adult,CM,Cameroon,0.25
+Stage4B500k-2026-05-05T20-00-42Z-89,male,0.89,53,adult,NG,Nigeria,0.26
+Stage4B500k-2026-05-05T20-00-42Z-90,female,0.90,54,adult,GH,Ghana,0.27
+Stage4B500k-2026-05-05T20-00-42Z-91,male,0.91,55,adult,KE,Kenya,0.28
+Stage4B500k-2026-05-05T20-00-42Z-92,female,0.92,56,adult,ZA,South Africa,0.29
+Stage4B500k-2026-05-05T20-00-42Z-93,male,0.93,57,adult,UG,Uganda,0.30
+Stage4B500k-2026-05-05T20-00-42Z-94,female,0.94,58,adult,TZ,Tanzania,0.31
+Stage4B500k-2026-05-05T20-00-42Z-95,male,0.95,59,adult,SN,Senegal,0.32
+Stage4B500k-2026-05-05T20-00-42Z-96,female,0.96,60,adult,CM,Cameroon,0.33
+Stage4B500k-2026-05-05T20-00-42Z-97,male,0.97,61,adult,NG,Nigeria,0.34
+Stage4B500k-2026-05-05T20-00-42Z-98,female,0.98,62,adult,GH,Ghana,0.35
+Stage4B500k-2026-05-05T20-00-42Z-99,male,0.99,63,adult,KE,Kenya,0.36
+Stage4B500k-2026-05-05T20-00-42Z-100,female,1.00,64,adult,ZA,South Africa,0.37
+Stage4B500k-2026-05-05T20-00-42Z-101,male,0.01,65,adult,UG,Uganda,0.38
+Stage4B500k-2026-05-05T20-00-42Z-102,female,0.02,66,adult,TZ,Tanzania,0.39
+Stage4B500k-2026-05-05T20-00-42Z-103,male,0.03,67,adult,SN,Senegal,0.40
+Stage4B500k-2026-05-05T20-00-42Z-104,female,0.04,68,adult,CM,Cameroon,0.41
+Stage4B500k-2026-05-05T20-00-42Z-105,male,0.05,69,adult,NG,Nigeria,0.42
+Stage4B500k-2026-05-05T20-00-42Z-106,female,0.06,70,adult,GH,Ghana,0.43
+Stage4B500k-2026-05-05T20-00-42Z-107,male,0.07,18,adult,KE,Kenya,0.44
+Stage4B500k-2026-05-05T20-00-42Z-108,female,0.08,19,adult,ZA,South Africa,0.45
+Stage4B500k-2026-05-05T20-00-42Z-109,male,0.09,20,adult,UG,Uganda,0.46
+Stage4B500k-2026-05-05T20-00-42Z-110,female,0.10,21,adult,TZ,Tanzania,0.47
+Stage4B500k-2026-05-05T20-00-42Z-111,male,0.11,22,adult,SN,Senegal,0.48
+Stage4B500k-2026-05-05T20-00-42Z-112,female,0.12,23,adult,CM,Cameroon,0.49
+Stage4B500k-2026-05-05T20-00-42Z-113,male,0.13,24,adult,NG,Nigeria,0.50
+Stage4B500k-2026-05-05T20-00-42Z-114,female,0.14,25,adult,GH,Ghana,0.51
+Stage4B500k-2026-05-05T20-00-42Z-115,male,0.15,26,adult,KE,Kenya,0.52
+Stage4B500k-2026-05-05T20-00-42Z-116,female,0.16,27,adult,ZA,South Africa,0.53
+Stage4B500k-2026-05-05T20-00-42Z-117,male,0.17,28,adult,UG,Uganda,0.54
+Stage4B500k-2026-05-05T20-00-42Z-118,female,0.18,29,adult,TZ,Tanzania,0.55
+Stage4B500k-2026-05-05T20-00-42Z-119,male,0.19,30,adult,SN,Senegal,0.56
+Stage4B500k-2026-05-05T20-00-42Z-120,female,0.20,31,adult,CM,Cameroon,0.57
+Stage4B500k-2026-05-05T20-00-42Z-121,male,0.21,32,adult,NG,Nigeria,0.58
+Stage4B500k-2026-05-05T20-00-42Z-122,female,0.22,33,adult,GH,Ghana,0.59
+Stage4B500k-2026-05-05T20-00-42Z-123,male,0.23,34,adult,KE,Kenya,0.60
+Stage4B500k-2026-05-05T20-00-42Z-124,female,0.24,35,adult,ZA,South Africa,0.61
+Stage4B500k-2026-05-05T20-00-42Z-125,male,0.25,36,adult,UG,Uganda,0.62
+Stage4B500k-2026-05-05T20-00-42Z-126,female,0.26,37,adult,TZ,Tanzania,0.63
+Stage4B500k-2026-05-05T20-00-42Z-127,male,0.27,38,adult,SN,Senegal,0.64
+Stage4B500k-2026-05-05T20-00-42Z-128,female,0.28,39,adult,CM,Cameroon,0.65
+Stage4B500k-2026-05-05T20-00-42Z-129,male,0.29,40,adult,NG,Nigeria,0.66
+Stage4B500k-2026-05-05T20-00-42Z-130,female,0.30,41,adult,GH,Ghana,0.67
+Stage4B500k-2026-05-05T20-00-42Z-131,male,0.31,42,adult,KE,Kenya,0.68
+Stage4B500k-2026-05-05T20-00-42Z-132,female,0.32,43,adult,ZA,South Africa,0.69
+Stage4B500k-2026-05-05T20-00-42Z-133,male,0.33,44,adult,UG,Uganda,0.70
+Stage4B500k-2026-05-05T20-00-42Z-134,female,0.34,45,adult,TZ,Tanzania,0.71
+Stage4B500k-2026-05-05T20-00-42Z-135,male,0.35,46,adult,SN,Senegal,0.72
+Stage4B500k-2026-05-05T20-00-42Z-136,female,0.36,47,adult,CM,Cameroon,0.73
+Stage4B500k-2026-05-05T20-00-42Z-137,male,0.37,48,adult,NG,Nigeria,0.74
+Stage4B500k-2026-05-05T20-00-42Z-138,female,0.38,49,adult,GH,Ghana,0.75
+Stage4B500k-2026-05-05T20-00-42Z-139,male,0.39,50,adult,KE,Kenya,0.76
+Stage4B500k-2026-05-05T20-00-42Z-140,female,0.40,51,adult,ZA,South Africa,0.77
+Stage4B500k-2026-05-05T20-00-42Z-141,male,0.41,52,adult,UG,Uganda,0.78
+Stage4B500k-2026-05-05T20-00-42Z-142,female,0.42,53,adult,TZ,Tanzania,0.79
+Stage4B500k-2026-05-05T20-00-42Z-143,male,0.43,54,adult,SN,Senegal,0.80
+Stage4B500k-2026-05-05T20-00-42Z-144,female,0.44,55,adult,CM,Cameroon,0.81
+Stage4B500k-2026-05-05T20-00-42Z-145,male,0.45,56,adult,NG,Nigeria,0.82
+Stage4B500k-2026-05-05T20-00-42Z-146,female,0.46,57,adult,GH,Ghana,0.83
+Stage4B500k-2026-05-05T20-00-42Z-147,male,0.47,58,adult,KE,Kenya,0.84
+Stage4B500k-2026-05-05T20-00-42Z-148,female,0.48,59,adult,ZA,South Africa,0.85
+Stage4B500k-2026-05-05T20-00-42Z-149,male,0.49,60,adult,UG,Uganda,0.86
+Stage4B500k-2026-05-05T20-00-42Z-150,female,0.50,61,adult,TZ,Tanzania,0.87
+Stage4B500k-2026-05-05T20-00-42Z-151,male,0.51,62,adult,SN,Senegal,0.88
+Stage4B500k-2026-05-05T20-00-42Z-152,female,0.52,63,adult,CM,Cameroon,0.89
+Stage4B500k-2026-05-05T20-00-42Z-153,male,0.53,64,adult,NG,Nigeria,0.90
+Stage4B500k-2026-05-05T20-00-42Z-154,female,0.54,65,adult,GH,Ghana,0.91
+Stage4B500k-2026-05-05T20-00-42Z-155,male,0.55,66,adult,KE,Kenya,0.92
+Stage4B500k-2026-05-05T20-00-42Z-156,female,0.56,67,adult,ZA,South Africa,0.93
+Stage4B500k-2026-05-05T20-00-42Z-157,male,0.57,68,adult,UG,Uganda,0.94
+Stage4B500k-2026-05-05T20-00-42Z-158,female,0.58,69,adult,TZ,Tanzania,0.95
+Stage4B500k-2026-05-05T20-00-42Z-159,male,0.59,70,adult,SN,Senegal,0.96
+Stage4B500k-2026-05-05T20-00-42Z-160,female,0.60,18,adult,CM,Cameroon,0.97
+Stage4B500k-2026-05-05T20-00-42Z-161,male,0.61,19,adult,NG,Nigeria,0.98
+Stage4B500k-2026-05-05T20-00-42Z-162,female,0.62,20,adult,GH,Ghana,0.99
+Stage4B500k-2026-05-05T20-00-42Z-163,male,0.63,21,adult,KE,Kenya,1.00
+Stage4B500k-2026-05-05T20-00-42Z-164,female,0.64,22,adult,ZA,South Africa,0.01
+Stage4B500k-2026-05-05T20-00-42Z-165,male,0.65,23,adult,UG,Uganda,0.02
+Stage4B500k-2026-05-05T20-00-42Z-166,female,0.66,24,adult,TZ,Tanzania,0.03
+Stage4B500k-2026-05-05T20-00-42Z-167,male,0.67,25,adult,SN,Senegal,0.04
+Stage4B500k-2026-05-05T20-00-42Z-168,female,0.68,26,adult,CM,Cameroon,0.05
+Stage4B500k-2026-05-05T20-00-42Z-169,male,0.69,27,adult,NG,Nigeria,0.06
+Stage4B500k-2026-05-05T20-00-42Z-170,female,0.70,28,adult,GH,Ghana,0.07
+Stage4B500k-2026-05-05T20-00-42Z-171,male,0.71,29,adult,KE,Kenya,0.08
+Stage4B500k-2026-05-05T20-00-42Z-172,female,0.72,30,adult,ZA,South Africa,0.09
+Stage4B500k-2026-05-05T20-00-42Z-173,male,0.73,31,adult,UG,Uganda,0.10
+Stage4B500k-2026-05-05T20-00-42Z-174,female,0.74,32,adult,TZ,Tanzania,0.11
+Stage4B500k-2026-05-05T20-00-42Z-175,male,0.75,33,adult,SN,Senegal,0.12
+Stage4B500k-2026-05-05T20-00-42Z-176,female,0.76,34,adult,CM,Cameroon,0.13
+Stage4B500k-2026-05-05T20-00-42Z-177,male,0.77,35,adult,NG,Nigeria,0.14
+Stage4B500k-2026-05-05T20-00-42Z-178,female,0.78,36,adult,GH,Ghana,0.15
+Stage4B500k-2026-05-05T20-00-42Z-179,male,0.79,37,adult,KE,Kenya,0.16
+Stage4B500k-2026-05-05T20-00-42Z-180,female,0.80,38,adult,ZA,South Africa,0.17
+Stage4B500k-2026-05-05T20-00-42Z-181,male,0.81,39,adult,UG,Uganda,0.18
+Stage4B500k-2026-05-05T20-00-42Z-182,female,0.82,40,adult,TZ,Tanzania,0.19
+Stage4B500k-2026-05-05T20-00-42Z-183,male,0.83,41,adult,SN,Senegal,0.20
+Stage4B500k-2026-05-05T20-00-42Z-184,female,0.84,42,adult,CM,Cameroon,0.21
+Stage4B500k-2026-05-05T20-00-42Z-185,male,0.85,43,adult,NG,Nigeria,0.22
+Stage4B500k-2026-05-05T20-00-42Z-186,female,0.86,44,adult,GH,Ghana,0.23
+Stage4B500k-2026-05-05T20-00-42Z-187,male,0.87,45,adult,KE,Kenya,0.24
+Stage4B500k-2026-05-05T20-00-42Z-188,female,0.88,46,adult,ZA,South Africa,0.25
+Stage4B500k-2026-05-05T20-00-42Z-189,male,0.89,47,adult,UG,Uganda,0.26
+Stage4B500k-2026-05-05T20-00-42Z-190,female,0.90,48,adult,TZ,Tanzania,0.27
+Stage4B500k-2026-05-05T20-00-42Z-191,male,0.91,49,adult,SN,Senegal,0.28
+Stage4B500k-2026-05-05T20-00-42Z-192,female,0.92,50,adult,CM,Cameroon,0.29
+Stage4B500k-2026-05-05T20-00-42Z-193,male,0.93,51,adult,NG,Nigeria,0.30
+Stage4B500k-2026-05-05T20-00-42Z-194,female,0.94,52,adult,GH,Ghana,0.31
+Stage4B500k-2026-05-05T20-00-42Z-195,male,0.95,53,adult,KE,Kenya,0.32
+Stage4B500k-2026-05-05T20-00-42Z-196,female,0.96,54,adult,ZA,South Africa,0.33
+Stage4B500k-2026-05-05T20-00-42Z-197,male,0.97,55,adult,UG,Uganda,0.34
+Stage4B500k-2026-05-05T20-00-42Z-198,female,0.98,56,adult,TZ,Tanzania,0.35
+Stage4B500k-2026-05-05T20-00-42Z-199,male,0.99,57,adult,SN,Senegal,0.36
+Stage4B500k-2026-05-05T20-00-42Z-200,female,1.00,58,adult,CM,Cameroon,0.37
+Stage4B500k-2026-05-05T20-00-42Z-201,male,0.01,59,adult,NG,Nigeria,0.38
+Stage4B500k-2026-05-05T20-00-42Z-202,female,0.02,60,adult,GH,Ghana,0.39
+Stage4B500k-2026-05-05T20-00-42Z-203,male,0.03,61,adult,KE,Kenya,0.40
+Stage4B500k-2026-05-05T20-00-42Z-204,female,0.04,62,adult,ZA,South Africa,0.41
+Stage4B500k-2026-05-05T20-00-42Z-205,male,0.05,63,adult,UG,Uganda,0.42
+Stage4B500k-2026-05-05T20-00-42Z-206,female,0.06,64,adult,TZ,Tanzania,0.43
+Stage4B500k-2026-05-05T20-00-42Z-207,male,0.07,65,adult,SN,Senegal,0.44
+Stage4B500k-2026-05-05T20-00-42Z-208,female,0.08,66,adult,CM,Cameroon,0.45
+Stage4B500k-2026-05-05T20-00-42Z-209,male,0.09,67,adult,NG,Nigeria,0.46
+Stage4B500k-2026-05-05T20-00-42Z-210,female,0.10,68,adult,GH,Ghana,0.47
+Stage4B500k-2026-05-05T20-00-42Z-211,male,0.11,69,adult,KE,Kenya,0.48
+Stage4B500k-2026-05-05T20-00-42Z-212,female,0.12,70,adult,ZA,South Africa,0.49
+Stage4B500k-2026-05-05T20-00-42Z-213,male,0.13,18,adult,UG,Uganda,0.50
+Stage4B500k-2026-05-05T20-00-42Z-214,female,0.14,19,adult,TZ,Tanzania,0.51
+Stage4B500k-2026-05-05T20-00-42Z-215,male,0.15,20,adult,SN,Senegal,0.52
+Stage4B500k-2026-05-05T20-00-42Z-216,female,0.16,21,adult,CM,Cameroon,0.53
+Stage4B500k-2026-05-05T20-00-42Z-217,male,0.17,22,adult,NG,Nigeria,0.54
+Stage4B500k-2026-05-05T20-00-42Z-218,female,0.18,23,adult,GH,Ghana,0.55
+Stage4B500k-2026-05-05T20-00-42Z-219,male,0.19,24,adult,KE,Kenya,0.56
+Stage4B500k-2026-05-05T20-00-42Z-220,female,0.20,25,adult,ZA,South Africa,0.57
+Stage4B500k-2026-05-05T20-00-42Z-221,male,0.21,26,adult,UG,Uganda,0.58
+Stage4B500k-2026-05-05T20-00-42Z-222,female,0.22,27,adult,TZ,Tanzania,0.59
+Stage4B500k-2026-05-05T20-00-42Z-223,male,0.23,28,adult,SN,Senegal,0.60
+Stage4B500k-2026-05-05T20-00-42Z-224,female,0.24,29,adult,CM,Cameroon,0.61
+Stage4B500k-2026-05-05T20-00-42Z-225,male,0.25,30,adult,NG,Nigeria,0.62
+Stage4B500k-2026-05-05T20-00-42Z-226,female,0.26,31,adult,GH,Ghana,0.63
+Stage4B500k-2026-05-05T20-00-42Z-227,male,0.27,32,adult,KE,Kenya,0.64
+Stage4B500k-2026-05-05T20-00-42Z-228,female,0.28,33,adult,ZA,South Africa,0.65
+Stage4B500k-2026-05-05T20-00-42Z-229,male,0.29,34,adult,UG,Uganda,0.66
+Stage4B500k-2026-05-05T20-00-42Z-230,female,0.30,35,adult,TZ,Tanzania,0.67
+Stage4B500k-2026-05-05T20-00-42Z-231,male,0.31,36,adult,SN,Senegal,0.68
+Stage4B500k-2026-05-05T20-00-42Z-232,female,0.32,37,adult,CM,Cameroon,0.69
+Stage4B500k-2026-05-05T20-00-42Z-233,male,0.33,38,adult,NG,Nigeria,0.70
+Stage4B500k-2026-05-05T20-00-42Z-234,female,0.34,39,adult,GH,Ghana,0.71
+Stage4B500k-2026-05-05T20-00-42Z-235,male,0.35,40,adult,KE,Kenya,0.72
+Stage4B500k-2026-05-05T20-00-42Z-236,female,0.36,41,adult,ZA,South Africa,0.73
+Stage4B500k-2026-05-05T20-00-42Z-237,male,0.37,42,adult,UG,Uganda,0.74
+Stage4B500k-2026-05-05T20-00-42Z-238,female,0.38,43,adult,TZ,Tanzania,0.75
+Stage4B500k-2026-05-05T20-00-42Z-239,male,0.39,44,adult,SN,Senegal,0.76
+Stage4B500k-2026-05-05T20-00-42Z-240,female,0.40,45,adult,CM,Cameroon,0.77
+Stage4B500k-2026-05-05T20-00-42Z-241,male,0.41,46,adult,NG,Nigeria,0.78
+Stage4B500k-2026-05-05T20-00-42Z-242,female,0.42,47,adult,GH,Ghana,0.79
+Stage4B500k-2026-05-05T20-00-42Z-243,male,0.43,48,adult,KE,Kenya,0.80
+Stage4B500k-2026-05-05T20-00-42Z-244,female,0.44,49,adult,ZA,South Africa,0.81
+Stage4B500k-2026-05-05T20-00-42Z-245,male,0.45,50,adult,UG,Uganda,0.82
+Stage4B500k-2026-05-05T20-00-42Z-246,female,0.46,51,adult,TZ,Tanzania,0.83
+Stage4B500k-2026-05-05T20-00-42Z-247,male,0.47,52,adult,SN,Senegal,0.84
+Stage4B500k-2026-05-05T20-00-42Z-248,female,0.48,53,adult,CM,Cameroon,0.85
+Stage4B500k-2026-05-05T20-00-42Z-249,male,0.49,54,adult,NG,Nigeria,0.86
+Stage4B500k-2026-05-05T20-00-42Z-250,female,0.50,55,adult,GH,Ghana,0.87
+Stage4B500k-2026-05-05T20-00-42Z-251,male,0.51,56,adult,KE,Kenya,0.88
+Stage4B500k-2026-05-05T20-00-42Z-252,female,0.52,57,adult,ZA,South Africa,0.89
+Stage4B500k-2026-05-05T20-00-42Z-253,male,0.53,58,adult,UG,Uganda,0.90
+Stage4B500k-2026-05-05T20-00-42Z-254,female,0.54,59,adult,TZ,Tanzania,0.91
+Stage4B500k-2026-05-05T20-00-42Z-255,male,0.55,60,adult,SN,Senegal,0.92
+Stage4B500k-2026-05-05T20-00-42Z-256,female,0.56,61,adult,CM,Cameroon,0.93
+Stage4B500k-2026-05-05T20-00-42Z-257,male,0.57,62,adult,NG,Nigeria,0.94
+Stage4B500k-2026-05-05T20-00-42Z-258,female,0.58,63,adult,GH,Ghana,0.95
+Stage4B500k-2026-05-05T20-00-42Z-259,male,0.59,64,adult,KE,Kenya,0.96
+Stage4B500k-2026-05-05T20-00-42Z-260,female,0.60,65,adult,ZA,South Africa,0.97
+Stage4B500k-2026-05-05T20-00-42Z-261,male,0.61,66,adult,UG,Uganda,0.98
+Stage4B500k-2026-05-05T20-00-42Z-262,female,0.62,67,adult,TZ,Tanzania,0.99
+Stage4B500k-2026-05-05T20-00-42Z-263,male,0.63,68,adult,SN,Senegal,1.00
+Stage4B500k-2026-05-05T20-00-42Z-264,female,0.64,69,adult,CM,Cameroon,0.01
+Stage4B500k-2026-05-05T20-00-42Z-265,male,0.65,70,adult,NG,Nigeria,0.02
+Stage4B500k-2026-05-05T20-00-42Z-266,female,0.66,18,adult,GH,Ghana,0.03
+Stage4B500k-2026-05-05T20-00-42Z-267,male,0.67,19,adult,KE,Kenya,0.04
+Stage4B500k-2026-05-05T20-00-42Z-268,female,0.68,20,adult,ZA,South Africa,0.05
+Stage4B500k-2026-05-05T20-00-42Z-269,male,0.69,21,adult,UG,Uganda,0.06
+Stage4B500k-2026-05-05T20-00-42Z-270,female,0.70,22,adult,TZ,Tanzania,0.07
+Stage4B500k-2026-05-05T20-00-42Z-271,male,0.71,23,adult,SN,Senegal,0.08
+Stage4B500k-2026-05-05T20-00-42Z-272,female,0.72,24,adult,CM,Cameroon,0.09
+Stage4B500k-2026-05-05T20-00-42Z-273,male,0.73,25,adult,NG,Nigeria,0.10
+Stage4B500k-2026-05-05T20-00-42Z-274,female,0.74,26,adult,GH,Ghana,0.11
+Stage4B500k-2026-05-05T20-00-42Z-275,male,0.75,27,adult,KE,Kenya,0.12
+Stage4B500k-2026-05-05T20-00-42Z-276,female,0.76,28,adult,ZA,South Africa,0.13
+Stage4B500k-2026-05-05T20-00-42Z-277,male,0.77,29,adult,UG,Uganda,0.14
+Stage4B500k-2026-05-05T20-00-42Z-278,female,0.78,30,adult,TZ,Tanzania,0.15
+Stage4B500k-2026-05-05T20-00-42Z-279,male,0.79,31,adult,SN,Senegal,0.16
+Stage4B500k-2026-05-05T20-00-42Z-280,female,0.80,32,adult,CM,Cameroon,0.17
+Stage4B500k-2026-05-05T20-00-42Z-281,male,0.81,33,adult,NG,Nigeria,0.18
+Stage4B500k-2026-05-05T20-00-42Z-282,female,0.82,34,adult,GH,Ghana,0.19
+Stage4B500k-2026-05-05T20-00-42Z-283,male,0.83,35,adult,KE,Kenya,0.20
+Stage4B500k-2026-05-05T20-00-42Z-284,female,0.84,36,adult,ZA,South Africa,0.21
+Stage4B500k-2026-05-05T20-00-42Z-285,male,0.85,37,adult,UG,Uganda,0.22
+Stage4B500k-2026-05-05T20-00-42Z-286,female,0.86,38,adult,TZ,Tanzania,0.23
+Stage4B500k-2026-05-05T20-00-42Z-287,male,0.87,39,adult,SN,Senegal,0.24
+Stage4B500k-2026-05-05T20-00-42Z-288,female,0.88,40,adult,CM,Cameroon,0.25
+Stage4B500k-2026-05-05T20-00-42Z-289,male,0.89,41,adult,NG,Nigeria,0.26
+Stage4B500k-2026-05-05T20-00-42Z-290,female,0.90,42,adult,GH,Ghana,0.27
+Stage4B500k-2026-05-05T20-00-42Z-291,male,0.91,43,adult,KE,Kenya,0.28
+Stage4B500k-2026-05-05T20-00-42Z-292,female,0.92,44,adult,ZA,South Africa,0.29
+Stage4B500k-2026-05-05T20-00-42Z-293,male,0.93,45,adult,UG,Uganda,0.30
+Stage4B500k-2026-05-05T20-00-42Z-294,female,0.94,46,adult,TZ,Tanzania,0.31
+Stage4B500k-2026-05-05T20-00-42Z-295,male,0.95,47,adult,SN,Senegal,0.32
+Stage4B500k-2026-05-05T20-00-42Z-296,female,0.96,48,adult,CM,Cameroon,0.33
+Stage4B500k-2026-05-05T20-00-42Z-297,male,0.97,49,adult,NG,Nigeria,0.34
+Stage4B500k-2026-05-05T20-00-42Z-298,female,0.98,50,adult,GH,Ghana,0.35
+Stage4B500k-2026-05-05T20-00-42Z-299,male,0.99,51,adult,KE,Kenya,0.36
+Stage4B500k-2026-05-05T20-00-42Z-300,female,1.00,52,adult,ZA,South Africa,0.37
+Stage4B500k-2026-05-05T20-00-42Z-301,male,0.01,53,adult,UG,Uganda,0.38
+Stage4B500k-2026-05-05T20-00-42Z-302,female,0.02,54,adult,TZ,Tanzania,0.39
+Stage4B500k-2026-05-05T20-00-42Z-303,male,0.03,55,adult,SN,Senegal,0.40
+Stage4B500k-2026-05-05T20-00-42Z-304,female,0.04,56,adult,CM,Cameroon,0.41
+Stage4B500k-2026-05-05T20-00-42Z-305,male,0.05,57,adult,NG,Nigeria,0.42
+Stage4B500k-2026-05-05T20-00-42Z-306,female,0.06,58,adult,GH,Ghana,0.43
+Stage4B500k-2026-05-05T20-00-42Z-307,male,0.07,59,adult,KE,Kenya,0.44
+Stage4B500k-2026-05-05T20-00-42Z-308,female,0.08,60,adult,ZA,South Africa,0.45
+Stage4B500k-2026-05-05T20-00-42Z-309,male,0.09,61,adult,UG,Uganda,0.46
+Stage4B500k-2026-05-05T20-00-42Z-310,female,0.10,62,adult,TZ,Tanzania,0.47
+Stage4B500k-2026-05-05T20-00-42Z-311,male,0.11,63,adult,SN,Senegal,0.48
+Stage4B500k-2026-05-05T20-00-42Z-312,female,0.12,64,adult,CM,Cameroon,0.49
+Stage4B500k-2026-05-05T20-00-42Z-313,male,0.13,65,adult,NG,Nigeria,0.50
+Stage4B500k-2026-05-05T20-00-42Z-314,female,0.14,66,adult,GH,Ghana,0.51
+Stage4B500k-2026-05-05T20-00-42Z-315,male,0.15,67,adult,KE,Kenya,0.52
+Stage4B500k-2026-05-05T20-00-42Z-316,female,0.16,68,adult,ZA,South Africa,0.53
+Stage4B500k-2026-05-05T20-00-42Z-317,male,0.17,69,adult,UG,Uganda,0.54
+Stage4B500k-2026-05-05T20-00-42Z-318,female,0.18,70,adult,TZ,Tanzania,0.55
+Stage4B500k-2026-05-05T20-00-42Z-319,male,0.19,18,adult,SN,Senegal,0.56
+Stage4B500k-2026-05-05T20-00-42Z-320,female,0.20,19,adult,CM,Cameroon,0.57
+Stage4B500k-2026-05-05T20-00-42Z-321,male,0.21,20,adult,NG,Nigeria,0.58
+Stage4B500k-2026-05-05T20-00-42Z-322,female,0.22,21,adult,GH,Ghana,0.59
+Stage4B500k-2026-05-05T20-00-42Z-323,male,0.23,22,adult,KE,Kenya,0.60
+Stage4B500k-2026-05-05T20-00-42Z-324,female,0.24,23,adult,ZA,South Africa,0.61
+Stage4B500k-2026-05-05T20-00-42Z-325,male,0.25,24,adult,UG,Uganda,0.62
+Stage4B500k-2026-05-05T20-00-42Z-326,female,0.26,25,adult,TZ,Tanzania,0.63
+Stage4B500k-2026-05-05T20-00-42Z-327,male,0.27,26,adult,SN,Senegal,0.64
+Stage4B500k-2026-05-05T20-00-42Z-328,female,0.28,27,adult,CM,Cameroon,0.65
+Stage4B500k-2026-05-05T20-00-42Z-329,male,0.29,28,adult,NG,Nigeria,0.66
+Stage4B500k-2026-05-05T20-00-42Z-330,female,0.30,29,adult,GH,Ghana,0.67
+Stage4B500k-2026-05-05T20-00-42Z-331,male,0.31,30,adult,KE,Kenya,0.68
+Stage4B500k-2026-05-05T20-00-42Z-332,female,0.32,31,adult,ZA,South Africa,0.69
+Stage4B500k-2026-05-05T20-00-42Z-333,male,0.33,32,adult,UG,Uganda,0.70
+Stage4B500k-2026-05-05T20-00-42Z-334,female,0.34,33,adult,TZ,Tanzania,0.71
+Stage4B500k-2026-05-05T20-00-42Z-335,male,0.35,34,adult,SN,Senegal,0.72
+Stage4B500k-2026-05-05T20-00-42Z-336,female,0.36,35,adult,CM,Cameroon,0.73
+Stage4B500k-2026-05-05T20-00-42Z-337,male,0.37,36,adult,NG,Nigeria,0.74
+Stage4B500k-2026-05-05T20-00-42Z-338,female,0.38,37,adult,GH,Ghana,0.75
+Stage4B500k-2026-05-05T20-00-42Z-339,male,0.39,38,adult,KE,Kenya,0.76
+Stage4B500k-2026-05-05T20-00-42Z-340,female,0.40,39,adult,ZA,South Africa,0.77
+Stage4B500k-2026-05-05T20-00-42Z-341,male,0.41,40,adult,UG,Uganda,0.78
+Stage4B500k-2026-05-05T20-00-42Z-342,female,0.42,41,adult,TZ,Tanzania,0.79
+Stage4B500k-2026-05-05T20-00-42Z-343,male,0.43,42,adult,SN,Senegal,0.80
+Stage4B500k-2026-05-05T20-00-42Z-344,female,0.44,43,adult,CM,Cameroon,0.81
+Stage4B500k-2026-05-05T20-00-42Z-345,male,0.45,44,adult,NG,Nigeria,0.82
+Stage4B500k-2026-05-05T20-00-42Z-346,female,0.46,45,adult,GH,Ghana,0.83
+Stage4B500k-2026-05-05T20-00-42Z-347,male,0.47,46,adult,KE,Kenya,0.84
+Stage4B500k-2026-05-05T20-00-42Z-348,female,0.48,47,adult,ZA,South Africa,0.85
+Stage4B500k-2026-05-05T20-00-42Z-349,male,0.49,48,adult,UG,Uganda,0.86
+Stage4B500k-2026-05-05T20-00-42Z-350,female,0.50,49,adult,TZ,Tanzania,0.87
+Stage4B500k-2026-05-05T20-00-42Z-351,male,0.51,50,adult,SN,Senegal,0.88
+Stage4B500k-2026-05-05T20-00-42Z-352,female,0.52,51,adult,CM,Cameroon,0.89
+Stage4B500k-2026-05-05T20-00-42Z-353,male,0.53,52,adult,NG,Nigeria,0.90
+Stage4B500k-2026-05-05T20-00-42Z-354,female,0.54,53,adult,GH,Ghana,0.91
+Stage4B500k-2026-05-05T20-00-42Z-355,male,0.55,54,adult,KE,Kenya,0.92
+Stage4B500k-2026-05-05T20-00-42Z-356,female,0.56,55,adult,ZA,South Africa,0.93
+Stage4B500k-2026-05-05T20-00-42Z-357,male,0.57,56,adult,UG,Uganda,0.94
+Stage4B500k-2026-05-05T20-00-42Z-358,female,0.58,57,adult,TZ,Tanzania,0.95
+Stage4B500k-2026-05-05T20-00-42Z-359,male,0.59,58,adult,SN,Senegal,0.96
+Stage4B500k-2026-05-05T20-00-42Z-360,female,0.60,59,adult,CM,Cameroon,0.97
+Stage4B500k-2026-05-05T20-00-42Z-361,male,0.61,60,adult,NG,Nigeria,0.98
+Stage4B500k-2026-05-05T20-00-42Z-362,female,0.62,61,adult,GH,Ghana,0.99
+Stage4B500k-2026-05-05T20-00-42Z-363,male,0.63,62,adult,KE,Kenya,1.00
+Stage4B500k-2026-05-05T20-00-42Z-364,female,0.64,63,adult,ZA,South Africa,0.01
+Stage4B500k-2026-05-05T20-00-42Z-365,male,0.65,64,adult,UG,Uganda,0.02
+Stage4B500k-2026-05-05T20-00-42Z-366,female,0.66,65,adult,TZ,Tanzania,0.03
+Stage4B500k-2026-05-05T20-00-42Z-367,male,0.67,66,adult,SN,Senegal,0.04
+Stage4B500k-2026-05-05T20-00-42Z-368,female,0.68,67,adult,CM,Cameroon,0.05
+Stage4B500k-2026-05-05T20-00-42Z-369,male,0.69,68,adult,NG,Nigeria,0.06
+Stage4B500k-2026-05-05T20-00-42Z-370,female,0.70,69,adult,GH,Ghana,0.07
+Stage4B500k-2026-05-05T20-00-42Z-371,male,0.71,70,adult,KE,Kenya,0.08
+Stage4B500k-2026-05-05T20-00-42Z-372,female,0.72,18,adult,ZA,South Africa,0.09
+Stage4B500k-2026-05-05T20-00-42Z-373,male,0.73,19,adult,UG,Uganda,0.10
+Stage4B500k-2026-05-05T20-00-42Z-374,female,0.74,20,adult,TZ,Tanzania,0.11
+Stage4B500k-2026-05-05T20-00-42Z-375,male,0.75,21,adult,SN,Senegal,0.12
+Stage4B500k-2026-05-05T20-00-42Z-376,female,0.76,22,adult,CM,Cameroon,0.13
+Stage4B500k-2026-05-05T20-00-42Z-377,male,0.77,23,adult,NG,Nigeria,0.14
+Stage4B500k-2026-05-05T20-00-42Z-378,female,0.78,24,adult,GH,Ghana,0.15
+Stage4B500k-2026-05-05T20-00-42Z-379,male,0.79,25,adult,KE,Kenya,0.16
+Stage4B500k-2026-05-05T20-00-42Z-380,female,0.80,26,adult,ZA,South Africa,0.17
+Stage4B500k-2026-05-05T20-00-42Z-381,male,0.81,27,adult,UG,Uganda,0.18
+Stage4B500k-2026-05-05T20-00-42Z-382,female,0.82,28,adult,TZ,Tanzania,0.19
+Stage4B500k-2026-05-05T20-00-42Z-383,male,0.83,29,adult,SN,Senegal,0.20
+Stage4B500k-2026-05-05T20-00-42Z-384,female,0.84,30,adult,CM,Cameroon,0.21
+Stage4B500k-2026-05-05T20-00-42Z-385,male,0.85,31,adult,NG,Nigeria,0.22
+Stage4B500k-2026-05-05T20-00-42Z-386,female,0.86,32,adult,GH,Ghana,0.23
+Stage4B500k-2026-05-05T20-00-42Z-387,male,0.87,33,adult,KE,Kenya,0.24
+Stage4B500k-2026-05-05T20-00-42Z-388,female,0.88,34,adult,ZA,South Africa,0.25
+Stage4B500k-2026-05-05T20-00-42Z-389,male,0.89,35,adult,UG,Uganda,0.26
+Stage4B500k-2026-05-05T20-00-42Z-390,female,0.90,36,adult,TZ,Tanzania,0.27
+Stage4B500k-2026-05-05T20-00-42Z-391,male,0.91,37,adult,SN,Senegal,0.28
+Stage4B500k-2026-05-05T20-00-42Z-392,female,0.92,38,adult,CM,Cameroon,0.29
+Stage4B500k-2026-05-05T20-00-42Z-393,male,0.93,39,adult,NG,Nigeria,0.30
+Stage4B500k-2026-05-05T20-00-42Z-394,female,0.94,40,adult,GH,Ghana,0.31
+Stage4B500k-2026-05-05T20-00-42Z-395,male,0.95,41,adult,KE,Kenya,0.32
+Stage4B500k-2026-05-05T20-00-42Z-396,female,0.96,42,adult,ZA,South Africa,0.33
+Stage4B500k-2026-05-05T20-00-42Z-397,male,0.97,43,adult,UG,Uganda,0.34
+Stage4B500k-2026-05-05T20-00-42Z-398,female,0.98,44,adult,TZ,Tanzania,0.35
+Stage4B500k-2026-05-05T20-00-42Z-399,male,0.99,45,adult,SN,Senegal,0.36
+Stage4B500k-2026-05-05T20-00-42Z-400,female,1.00,46,adult,CM,Cameroon,0.37
+Stage4B500k-2026-05-05T20-00-42Z-401,male,0.01,47,adult,NG,Nigeria,0.38
+Stage4B500k-2026-05-05T20-00-42Z-402,female,0.02,48,adult,GH,Ghana,0.39
+Stage4B500k-2026-05-05T20-00-42Z-403,male,0.03,49,adult,KE,Kenya,0.40
+Stage4B500k-2026-05-05T20-00-42Z-404,female,0.04,50,adult,ZA,South Africa,0.41
+Stage4B500k-2026-05-05T20-00-42Z-405,male,0.05,51,adult,UG,Uganda,0.42
+Stage4B500k-2026-05-05T20-00-42Z-406,female,0.06,52,adult,TZ,Tanzania,0.43
+Stage4B500k-2026-05-05T20-00-42Z-407,male,0.07,53,adult,SN,Senegal,0.44
+Stage4B500k-2026-05-05T20-00-42Z-408,female,0.08,54,adult,CM,Cameroon,0.45
+Stage4B500k-2026-05-05T20-00-42Z-409,male,0.09,55,adult,NG,Nigeria,0.46
+Stage4B500k-2026-05-05T20-00-42Z-410,female,0.10,56,adult,GH,Ghana,0.47
+Stage4B500k-2026-05-05T20-00-42Z-411,male,0.11,57,adult,KE,Kenya,0.48
+Stage4B500k-2026-05-05T20-00-42Z-412,female,0.12,58,adult,ZA,South Africa,0.49
+Stage4B500k-2026-05-05T20-00-42Z-413,male,0.13,59,adult,UG,Uganda,0.50
+Stage4B500k-2026-05-05T20-00-42Z-414,female,0.14,60,adult,TZ,Tanzania,0.51
+Stage4B500k-2026-05-05T20-00-42Z-415,male,0.15,61,adult,SN,Senegal,0.52
+Stage4B500k-2026-05-05T20-00-42Z-416,female,0.16,62,adult,CM,Cameroon,0.53
+Stage4B500k-2026-05-05T20-00-42Z-417,male,0.17,63,adult,NG,Nigeria,0.54
+Stage4B500k-2026-05-05T20-00-42Z-418,female,0.18,64,adult,GH,Ghana,0.55
+Stage4B500k-2026-05-05T20-00-42Z-419,male,0.19,65,adult,KE,Kenya,0.56
+Stage4B500k-2026-05-05T20-00-42Z-420,female,0.20,66,adult,ZA,South Africa,0.57
+Stage4B500k-2026-05-05T20-00-42Z-421,male,0.21,67,adult,UG,Uganda,0.58
+Stage4B500k-2026-05-05T20-00-42Z-422,female,0.22,68,adult,TZ,Tanzania,0.59
+Stage4B500k-2026-05-05T20-00-42Z-423,male,0.23,69,adult,SN,Senegal,0.60
+Stage4B500k-2026-05-05T20-00-42Z-424,female,0.24,70,adult,CM,Cameroon,0.61
+Stage4B500k-2026-05-05T20-00-42Z-425,male,0.25,18,adult,NG,Nigeria,0.62
+Stage4B500k-2026-05-05T20-00-42Z-426,female,0.26,19,adult,GH,Ghana,0.63
+Stage4B500k-2026-05-05T20-00-42Z-427,male,0.27,20,adult,KE,Kenya,0.64
+Stage4B500k-2026-05-05T20-00-42Z-428,female,0.28,21,adult,ZA,South Africa,0.65
+Stage4B500k-2026-05-05T20-00-42Z-429,male,0.29,22,adult,UG,Uganda,0.66
+Stage4B500k-2026-05-05T20-00-42Z-430,female,0.30,23,adult,TZ,Tanzania,0.67
+Stage4B500k-2026-05-05T20-00-42Z-431,male,0.31,24,adult,SN,Senegal,0.68
+Stage4B500k-2026-05-05T20-00-42Z-432,female,0.32,25,adult,CM,Cameroon,0.69
+Stage4B500k-2026-05-05T20-00-42Z-433,male,0.33,26,adult,NG,Nigeria,0.70
+Stage4B500k-2026-05-05T20-00-42Z-434,female,0.34,27,adult,GH,Ghana,0.71
+Stage4B500k-2026-05-05T20-00-42Z-435,male,0.35,28,adult,KE,Kenya,0.72
+Stage4B500k-2026-05-05T20-00-42Z-436,female,0.36,29,adult,ZA,South Africa,0.73
+Stage4B500k-2026-05-05T20-00-42Z-437,male,0.37,30,adult,UG,Uganda,0.74
+Stage4B500k-2026-05-05T20-00-42Z-438,female,0.38,31,adult,TZ,Tanzania,0.75
+Stage4B500k-2026-05-05T20-00-42Z-439,male,0.39,32,adult,SN,Senegal,0.76
+Stage4B500k-2026-05-05T20-00-42Z-440,female,0.40,33,adult,CM,Cameroon,0.77
+Stage4B500k-2026-05-05T20-00-42Z-441,male,0.41,34,adult,NG,Nigeria,0.78
+Stage4B500k-2026-05-05T20-00-42Z-442,female,0.42,35,adult,GH,Ghana,0.79
+Stage4B500k-2026-05-05T20-00-42Z-443,male,0.43,36,adult,KE,Kenya,0.80
+Stage4B500k-2026-05-05T20-00-42Z-444,female,0.44,37,adult,ZA,South Africa,0.81
+Stage4B500k-2026-05-05T20-00-42Z-445,male,0.45,38,adult,UG,Uganda,0.82
+Stage4B500k-2026-05-05T20-00-42Z-446,female,0.46,39,adult,TZ,Tanzania,0.83
+Stage4B500k-2026-05-05T20-00-42Z-447,male,0.47,40,adult,SN,Senegal,0.84
+Stage4B500k-2026-05-05T20-00-42Z-448,female,0.48,41,adult,CM,Cameroon,0.85
+Stage4B500k-2026-05-05T20-00-42Z-449,male,0.49,42,adult,NG,Nigeria,0.86
+Stage4B500k-2026-05-05T20-00-42Z-450,female,0.50,43,adult,GH,Ghana,0.87
+Stage4B500k-2026-05-05T20-00-42Z-451,male,0.51,44,adult,KE,Kenya,0.88
+Stage4B500k-2026-05-05T20-00-42Z-452,female,0.52,45,adult,ZA,South Africa,0.89
+Stage4B500k-2026-05-05T20-00-42Z-453,male,0.53,46,adult,UG,Uganda,0.90
+Stage4B500k-2026-05-05T20-00-42Z-454,female,0.54,47,adult,TZ,Tanzania,0.91
+Stage4B500k-2026-05-05T20-00-42Z-455,male,0.55,48,adult,SN,Senegal,0.92
+Stage4B500k-2026-05-05T20-00-42Z-456,female,0.56,49,adult,CM,Cameroon,0.93
+Stage4B500k-2026-05-05T20-00-42Z-457,male,0.57,50,adult,NG,Nigeria,0.94
+Stage4B500k-2026-05-05T20-00-42Z-458,female,0.58,51,adult,GH,Ghana,0.95
+Stage4B500k-2026-05-05T20-00-42Z-459,male,0.59,52,adult,KE,Kenya,0.96
+Stage4B500k-2026-05-05T20-00-42Z-460,female,0.60,53,adult,ZA,South Africa,0.97
+Stage4B500k-2026-05-05T20-00-42Z-461,male,0.61,54,adult,UG,Uganda,0.98
+Stage4B500k-2026-05-05T20-00-42Z-462,female,0.62,55,adult,TZ,Tanzania,0.99
+Stage4B500k-2026-05-05T20-00-42Z-463,male,0.63,56,adult,SN,Senegal,1.00
+Stage4B500k-2026-05-05T20-00-42Z-464,female,0.64,57,adult,CM,Cameroon,0.01
+Stage4B500k-2026-05-05T20-00-42Z-465,male,0.65,58,adult,NG,Nigeria,0.02
+Stage4B500k-2026-05-05T20-00-42Z-466,female,0.66,59,adult,GH,Ghana,0.03
+Stage4B500k-2026-05-05T20-00-42Z-467,male,0.67,60,adult,KE,Kenya,0.04
+Stage4B500k-2026-05-05T20-00-42Z-468,female,0.68,61,adult,ZA,South Africa,0.05
+Stage4B500k-2026-05-05T20-00-42Z-469,male,0.69,62,adult,UG,Uganda,0.06
+Stage4B500k-2026-05-05T20-00-42Z-470,female,0.70,63,adult,TZ,Tanzania,0.07
+Stage4B500k-2026-05-05T20-00-42Z-471,male,0.71,64,adult,SN,Senegal,0.08
+Stage4B500k-2026-05-05T20-00-42Z-472,female,0.72,65,adult,CM,Cameroon,0.09
+Stage4B500k-2026-05-05T20-00-42Z-473,male,0.73,66,adult,NG,Nigeria,0.10
+Stage4B500k-2026-05-05T20-00-42Z-474,female,0.74,67,adult,GH,Ghana,0.11
+Stage4B500k-2026-05-05T20-00-42Z-475,male,0.75,68,adult,KE,Kenya,0.12
+Stage4B500k-2026-05-05T20-00-42Z-476,female,0.76,69,adult,ZA,South Africa,0.13
+Stage4B500k-2026-05-05T20-00-42Z-477,male,0.77,70,adult,UG,Uganda,0.14
+Stage4B500k-2026-05-05T20-00-42Z-478,female,0.78,18,adult,TZ,Tanzania,0.15
+Stage4B500k-2026-05-05T20-00-42Z-479,male,0.79,19,adult,SN,Senegal,0.16
+Stage4B500k-2026-05-05T20-00-42Z-480,female,0.80,20,adult,CM,Cameroon,0.17
+Stage4B500k-2026-05-05T20-00-42Z-481,male,0.81,21,adult,NG,Nigeria,0.18
+Stage4B500k-2026-05-05T20-00-42Z-482,female,0.82,22,adult,GH,Ghana,0.19
+Stage4B500k-2026-05-05T20-00-42Z-483,male,0.83,23,adult,KE,Kenya,0.20
+Stage4B500k-2026-05-05T20-00-42Z-484,female,0.84,24,adult,ZA,South Africa,0.21
+Stage4B500k-2026-05-05T20-00-42Z-485,male,0.85,25,adult,UG,Uganda,0.22
+Stage4B500k-2026-05-05T20-00-42Z-486,female,0.86,26,adult,TZ,Tanzania,0.23
+Stage4B500k-2026-05-05T20-00-42Z-487,male,0.87,27,adult,SN,Senegal,0.24
+Stage4B500k-2026-05-05T20-00-42Z-488,female,0.88,28,adult,CM,Cameroon,0.25
+Stage4B500k-2026-05-05T20-00-42Z-489,male,0.89,29,adult,NG,Nigeria,0.26
+Stage4B500k-2026-05-05T20-00-42Z-490,female,0.90,30,adult,GH,Ghana,0.27
+Stage4B500k-2026-05-05T20-00-42Z-491,male,0.91,31,adult,KE,Kenya,0.28
+Stage4B500k-2026-05-05T20-00-42Z-492,female,0.92,32,adult,ZA,South Africa,0.29
+Stage4B500k-2026-05-05T20-00-42Z-493,male,0.93,33,adult,UG,Uganda,0.30
+Stage4B500k-2026-05-05T20-00-42Z-494,female,0.94,34,adult,TZ,Tanzania,0.31
+Stage4B500k-2026-05-05T20-00-42Z-495,male,0.95,35,adult,SN,Senegal,0.32
+Stage4B500k-2026-05-05T20-00-42Z-496,female,0.96,36,adult,CM,Cameroon,0.33
+Stage4B500k-2026-05-05T20-00-42Z-497,male,0.97,37,adult,NG,Nigeria,0.34
+Stage4B500k-2026-05-05T20-00-42Z-498,female,0.98,38,adult,GH,Ghana,0.35
+Stage4B500k-2026-05-05T20-00-42Z-499,male,0.99,39,adult,KE,Kenya,0.36
+Stage4B500k-2026-05-05T20-00-42Z-500,female,1.00,40,adult,ZA,South Africa,0.37
+Stage4B500k-2026-05-05T20-00-42Z-501,male,0.01,41,adult,UG,Uganda,0.38
+Stage4B500k-2026-05-05T20-00-42Z-502,female,0.02,42,adult,TZ,Tanzania,0.39
+Stage4B500k-2026-05-05T20-00-42Z-503,male,0.03,43,adult,SN,Senegal,0.40
+Stage4B500k-2026-05-05T20-00-42Z-504,female,0.04,44,adult,CM,Cameroon,0.41
+Stage4B500k-2026-05-05T20-00-42Z-505,male,0.05,45,adult,NG,Nigeria,0.42
+Stage4B500k-2026-05-05T20-00-42Z-506,female,0.06,46,adult,GH,Ghana,0.43
+Stage4B500k-2026-05-05T20-00-42Z-507,male,0.07,47,adult,KE,Kenya,0.44
+Stage4B500k-2026-05-05T20-00-42Z-508,female,0.08,48,adult,ZA,South Africa,0.45
+Stage4B500k-2026-05-05T20-00-42Z-509,male,0.09,49,adult,UG,Uganda,0.46
+Stage4B500k-2026-05-05T20-00-42Z-510,female,0.10,50,adult,TZ,Tanzania,0.47
+Stage4B500k-2026-05-05T20-00-42Z-511,male,0.11,51,adult,SN,Senegal,0.48
+Stage4B500k-2026-05-05T20-00-42Z-512,female,0.12,52,adult,CM,Cameroon,0.49
+Stage4B500k-2026-05-05T20-00-42Z-513,male,0.13,53,adult,NG,Nigeria,0.50
+Stage4B500k-2026-05-05T20-00-42Z-514,female,0.14,54,adult,GH,Ghana,0.51
+Stage4B500k-2026-05-05T20-00-42Z-515,male,0.15,55,adult,KE,Kenya,0.52
+Stage4B500k-2026-05-05T20-00-42Z-516,female,0.16,56,adult,ZA,South Africa,0.53
+Stage4B500k-2026-05-05T20-00-42Z-517,male,0.17,57,adult,UG,Uganda,0.54
+Stage4B500k-2026-05-05T20-00-42Z-518,female,0.18,58,adult,TZ,Tanzania,0.55
+Stage4B500k-2026-05-05T20-00-42Z-519,male,0.19,59,adult,SN,Senegal,0.56
+Stage4B500k-2026-05-05T20-00-42Z-520,female,0.20,60,adult,CM,Cameroon,0.57
+Stage4B500k-2026-05-05T20-00-42Z-521,male,0.21,61,adult,NG,Nigeria,0.58
+Stage4B500k-2026-05-05T20-00-42Z-522,female,0.22,62,adult,GH,Ghana,0.59
+Stage4B500k-2026-05-05T20-00-42Z-523,male,0.23,63,adult,KE,Kenya,0.60
+Stage4B500k-2026-05-05T20-00-42Z-524,female,0.24,64,adult,ZA,South Africa,0.61
+Stage4B500k-2026-05-05T20-00-42Z-525,male,0.25,65,adult,UG,Uganda,0.62
+Stage4B500k-2026-05-05T20-00-42Z-526,female,0.26,66,adult,TZ,Tanzania,0.63
+Stage4B500k-2026-05-05T20-00-42Z-527,male,0.27,67,adult,SN,Senegal,0.64
+Stage4B500k-2026-05-05T20-00-42Z-528,female,0.28,68,adult,CM,Cameroon,0.65
+Stage4B500k-2026-05-05T20-00-42Z-529,male,0.29,69,adult,NG,Nigeria,0.66
+Stage4B500k-2026-05-05T20-00-42Z-530,female,0.30,70,adult,GH,Ghana,0.67
+Stage4B500k-2026-05-05T20-00-42Z-531,male,0.31,18,adult,KE,Kenya,0.68
+Stage4B500k-2026-05-05T20-00-42Z-532,female,0.32,19,adult,ZA,South Africa,0.69
+Stage4B500k-2026-05-05T20-00-42Z-533,male,0.33,20,adult,UG,Uganda,0.70
+Stage4B500k-2026-05-05T20-00-42Z-534,female,0.34,21,adult,TZ,Tanzania,0.71
+Stage4B500k-2026-05-05T20-00-42Z-535,male,0.35,22,adult,SN,Senegal,0.72
+Stage4B500k-2026-05-05T20-00-42Z-536,female,0.36,23,adult,CM,Cameroon,0.73
+Stage4B500k-2026-05-05T20-00-42Z-537,male,0.37,24,adult,NG,Nigeria,0.74
+Stage4B500k-2026-05-05T20-00-42Z-538,female,0.38,25,adult,GH,Ghana,0.75
+Stage4B500k-2026-05-05T20-00-42Z-539,male,0.39,26,adult,KE,Kenya,0.76
+Stage4B500k-2026-05-05T20-00-42Z-540,female,0.40,27,adult,ZA,South Africa,0.77
+Stage4B500k-2026-05-05T20-00-42Z-541,male,0.41,28,adult,UG,Uganda,0.78
+Stage4B500k-2026-05-05T20-00-42Z-542,female,0.42,29,adult,TZ,Tanzania,0.79
+Stage4B500k-2026-05-05T20-00-42Z-543,male,0.43,30,adult,SN,Senegal,0.80
+Stage4B500k-2026-05-05T20-00-42Z-544,female,0.44,31,adult,CM,Cameroon,0.81
+Stage4B500k-2026-05-05T20-00-42Z-545,male,0.45,32,adult,NG,Nigeria,0.82
+Stage4B500k-2026-05-05T20-00-42Z-546,female,0.46,33,adult,GH,Ghana,0.83
+Stage4B500k-2026-05-05T20-00-42Z-547,male,0.47,34,adult,KE,Kenya,0.84
+Stage4B500k-2026-05-05T20-00-42Z-548,female,0.48,35,adult,ZA,South Africa,0.85
+Stage4B500k-2026-05-05T20-00-42Z-549,male,0.49,36,adult,UG,Uganda,0.86
+Stage4B500k-2026-05-05T20-00-42Z-550,female,0.50,37,adult,TZ,Tanzania,0.87
+Stage4B500k-2026-05-05T20-00-42Z-551,male,0.51,38,adult,SN,Senegal,0.88
+Stage4B500k-2026-05-05T20-00-42Z-552,female,0.52,39,adult,CM,Cameroon,0.89
+Stage4B500k-2026-05-05T20-00-42Z-553,male,0.53,40,adult,NG,Nigeria,0.90
+Stage4B500k-2026-05-05T20-00-42Z-554,female,0.54,41,adult,GH,Ghana,0.91
+Stage4B500k-2026-05-05T20-00-42Z-555,male,0.55,42,adult,KE,Kenya,0.92
+Stage4B500k-2026-05-05T20-00-42Z-556,female,0.56,43,adult,ZA,South Africa,0.93
+Stage4B500k-2026-05-05T20-00-42Z-557,male,0.57,44,adult,UG,Uganda,0.94
+Stage4B500k-2026-05-05T20-00-42Z-558,female,0.58,45,adult,TZ,Tanzania,0.95
+Stage4B500k-2026-05-05T20-00-42Z-559,male,0.59,46,adult,SN,Senegal,0.96
+Stage4B500k-2026-05-05T20-00-42Z-560,female,0.60,47,adult,CM,Cameroon,0.97
+Stage4B500k-2026-05-05T20-00-42Z-561,male,0.61,48,adult,NG,Nigeria,0.98
+Stage4B500k-2026-05-05T20-00-42Z-562,female,0.62,49,adult,GH,Ghana,0.99
+Stage4B500k-2026-05-05T20-00-42Z-563,male,0.63,50,adult,KE,Kenya,1.00
+Stage4B500k-2026-05-05T20-00-42Z-564,female,0.64,51,adult,ZA,South Africa,0.01
+Stage4B500k-2026-05-05T20-00-42Z-565,male,0.65,52,adult,UG,Uganda,0.02
+Stage4B500k-2026-05-05T20-00-42Z-566,female,0.66,53,adult,TZ,Tanzania,0.03
+Stage4B500k-2026-05-05T20-00-42Z-567,male,0.67,54,adult,SN,Senegal,0.04
+Stage4B500k-2026-05-05T20-00-42Z-568,female,0.68,55,adult,CM,Cameroon,0.05
+Stage4B500k-2026-05-05T20-00-42Z-569,male,0.69,56,adult,NG,Nigeria,0.06
+Stage4B500k-2026-05-05T20-00-42Z-570,female,0.70,57,adult,GH,Ghana,0.07
+Stage4B500k-2026-05-05T20-00-42Z-571,male,0.71,58,adult,KE,Kenya,0.08
+Stage4B500k-2026-05-05T20-00-42Z-572,female,0.72,59,adult,ZA,South Africa,0.09
+Stage4B500k-2026-05-05T20-00-42Z-573,male,0.73,60,adult,UG,Uganda,0.10
+Stage4B500k-2026-05-05T20-00-42Z-574,female,0.74,61,adult,TZ,Tanzania,0.11
+Stage4B500k-2026-05-05T20-00-42Z-575,male,0.75,62,adult,SN,Senegal,0.12
+Stage4B500k-2026-05-05T20-00-42Z-576,female,0.76,63,adult,CM,Cameroon,0.13
+Stage4B500k-2026-05-05T20-00-42Z-577,male,0.77,64,adult,NG,Nigeria,0.14
+Stage4B500k-2026-05-05T20-00-42Z-578,female,0.78,65,adult,GH,Ghana,0.15
+Stage4B500k-2026-05-05T20-00-42Z-579,male,0.79,66,adult,KE,Kenya,0.16
+Stage4B500k-2026-05-05T20-00-42Z-580,female,0.80,67,adult,ZA,South Africa,0.17
+Stage4B500k-2026-05-05T20-00-42Z-581,male,0.81,68,adult,UG,Uganda,0.18
+Stage4B500k-2026-05-05T20-00-42Z-582,female,0.82,69,adult,TZ,Tanzania,0.19
+Stage4B500k-2026-05-05T20-00-42Z-583,male,0.83,70,adult,SN,Senegal,0.20
+Stage4B500k-2026-05-05T20-00-42Z-584,female,0.84,18,adult,CM,Cameroon,0.21
+Stage4B500k-2026-05-05T20-00-42Z-585,male,0.85,19,adult,NG,Nigeria,0.22
+Stage4B500k-2026-05-05T20-00-42Z-586,female,0.86,20,adult,GH,Ghana,0.23
+Stage4B500k-2026-05-05T20-00-42Z-587,male,0.87,21,adult,KE,Kenya,0.24
+Stage4B500k-2026-05-05T20-00-42Z-588,female,0.88,22,adult,ZA,South Africa,0.25
+Stage4B500k-2026-05-05T20-00-42Z-589,male,0.89,23,adult,UG,Uganda,0.26
+Stage4B500k-2026-05-05T20-00-42Z-590,female,0.90,24,adult,TZ,Tanzania,0.27
+Stage4B500k-2026-05-05T20-00-42Z-591,male,0.91,25,adult,SN,Senegal,0.28
+Stage4B500k-2026-05-05T20-00-42Z-592,female,0.92,26,adult,CM,Cameroon,0.29
+Stage4B500k-2026-05-05T20-00-42Z-593,male,0.93,27,adult,NG,Nigeria,0.30
+Stage4B500k-2026-05-05T20-00-42Z-594,female,0.94,28,adult,GH,Ghana,0.31
+Stage4B500k-2026-05-05T20-00-42Z-595,male,0.95,29,adult,KE,Kenya,0.32
+Stage4B500k-2026-05-05T20-00-42Z-596,female,0.96,30,adult,ZA,South Africa,0.33
+Stage4B500k-2026-05-05T20-00-42Z-597,male,0.97,31,adult,UG,Uganda,0.34
+Stage4B500k-2026-05-05T20-00-42Z-598,female,0.98,32,adult,TZ,Tanzania,0.35
+Stage4B500k-2026-05-05T20-00-42Z-599,male,0.99,33,adult,SN,Senegal,0.36
+Stage4B500k-2026-05-05T20-00-42Z-600,female,1.00,34,adult,CM,Cameroon,0.37
+Stage4B500k-2026-05-05T20-00-42Z-601,male,0.01,35,adult,NG,Nigeria,0.38
+Stage4B500k-2026-05-05T20-00-42Z-602,female,0.02,36,adult,GH,Ghana,0.39
+Stage4B500k-2026-05-05T20-00-42Z-603,male,0.03,37,adult,KE,Kenya,0.40
+Stage4B500k-2026-05-05T20-00-42Z-604,female,0.04,38,adult,ZA,South Africa,0.41
+Stage4B500k-2026-05-05T20-00-42Z-605,male,0.05,39,adult,UG,Uganda,0.42
+Stage4B500k-2026-05-05T20-00-42Z-606,female,0.06,40,adult,TZ,Tanzania,0.43
+Stage4B500k-2026-05-05T20-00-42Z-607,male,0.07,41,adult,SN,Senegal,0.44
+Stage4B500k-2026-05-05T20-00-42Z-608,female,0.08,42,adult,CM,Cameroon,0.45
+Stage4B500k-2026-05-05T20-00-42Z-609,male,0.09,43,adult,NG,Nigeria,0.46
+Stage4B500k-2026-05-05T20-00-42Z-610,female,0.10,44,adult,GH,Ghana,0.47
+Stage4B500k-2026-05-05T20-00-42Z-611,male,0.11,45,adult,KE,Kenya,0.48
+Stage4B500k-2026-05-05T20-00-42Z-612,female,0.12,46,adult,ZA,South Africa,0.49
+Stage4B500k-2026-05-05T20-00-42Z-613,male,0.13,47,adult,UG,Uganda,0.50
+Stage4B500k-2026-05-05T20-00-42Z-614,female,0.14,48,adult,TZ,Tanzania,0.51
+Stage4B500k-2026-05-05T20-00-42Z-615,male,0.15,49,adult,SN,Senegal,0.52
+Stage4B500k-2026-05-05T20-00-42Z-616,female,0.16,50,adult,CM,Cameroon,0.53
+Stage4B500k-2026-05-05T20-00-42Z-617,male,0.17,51,adult,NG,Nigeria,0.54
+Stage4B500k-2026-05-05T20-00-42Z-618,female,0.18,52,adult,GH,Ghana,0.55
+Stage4B500k-2026-05-05T20-00-42Z-619,male,0.19,53,adult,KE,Kenya,0.56
+Stage4B500k-2026-05-05T20-00-42Z-620,female,0.20,54,adult,ZA,South Africa,0.57
+Stage4B500k-2026-05-05T20-00-42Z-621,male,0.21,55,adult,UG,Uganda,0.58
+Stage4B500k-2026-05-05T20-00-42Z-622,female,0.22,56,adult,TZ,Tanzania,0.59
+Stage4B500k-2026-05-05T20-00-42Z-623,male,0.23,57,adult,SN,Senegal,0.60
+Stage4B500k-2026-05-05T20-00-42Z-624,female,0.24,58,adult,CM,Cameroon,0.61
+Stage4B500k-2026-05-05T20-00-42Z-625,male,0.25,59,adult,NG,Nigeria,0.62
+Stage4B500k-2026-05-05T20-00-42Z-626,female,0.26,60,adult,GH,Ghana,0.63
+Stage4B500k-2026-05-05T20-00-42Z-627,male,0.27,61,adult,KE,Kenya,0.64
+Stage4B500k-2026-05-05T20-00-42Z-628,female,0.28,62,adult,ZA,South Africa,0.65
+Stage4B500k-2026-05-05T20-00-42Z-629,male,0.29,63,adult,UG,Uganda,0.66
+Stage4B500k-2026-05-05T20-00-42Z-630,female,0.30,64,adult,TZ,Tanzania,0.67
+Stage4B500k-2026-05-05T20-00-42Z-631,male,0.31,65,adult,SN,Senegal,0.68
+Stage4B500k-2026-05-05T20-00-42Z-632,female,0.32,66,adult,CM,Cameroon,0.69
+Stage4B500k-2026-05-05T20-00-42Z-633,male,0.33,67,adult,NG,Nigeria,0.70
+Stage4B500k-2026-05-05T20-00-42Z-634,female,0.34,68,adult,GH,Ghana,0.71
+Stage4B500k-2026-05-05T20-00-42Z-635,male,0.35,69,adult,KE,Kenya,0.72
+Stage4B500k-2026-05-05T20-00-42Z-636,female,0.36,70,adult,ZA,South Africa,0.73
+Stage4B500k-2026-05-05T20-00-42Z-637,male,0.37,18,adult,UG,Uganda,0.74
+Stage4B500k-2026-05-05T20-00-42Z-638,female,0.38,19,adult,TZ,Tanzania,0.75
+Stage4B500k-2026-05-05T20-00-42Z-639,male,0.39,20,adult,SN,Senegal,0.76
+Stage4B500k-2026-05-05T20-00-42Z-640,female,0.40,21,adult,CM,Cameroon,0.77
+Stage4B500k-2026-05-05T20-00-42Z-641,male,0.41,22,adult,NG,Nigeria,0.78
+Stage4B500k-2026-05-05T20-00-42Z-642,female,0.42,23,adult,GH,Ghana,0.79
+Stage4B500k-2026-05-05T20-00-42Z-643,male,0.43,24,adult,KE,Kenya,0.80
+Stage4B500k-2026-05-05T20-00-42Z-644,female,0.44,25,adult,ZA,South Africa,0.81
+Stage4B500k-2026-05-05T20-00-42Z-645,male,0.45,26,adult,UG,Uganda,0.82
+Stage4B500k-2026-05-05T20-00-42Z-646,female,0.46,27,adult,TZ,Tanzania,0.83
+Stage4B500k-2026-05-05T20-00-42Z-647,male,0.47,28,adult,SN,Senegal,0.84
+Stage4B500k-2026-05-05T20-00-42Z-648,female,0.48,29,adult,CM,Cameroon,0.85
+Stage4B500k-2026-05-05T20-00-42Z-649,male,0.49,30,adult,NG,Nigeria,0.86
+Stage4B500k-2026-05-05T20-00-42Z-650,female,0.50,31,adult,GH,Ghana,0.87
+Stage4B500k-2026-05-05T20-00-42Z-651,male,0.51,32,adult,KE,Kenya,0.88
+Stage4B500k-2026-05-05T20-00-42Z-652,female,0.52,33,adult,ZA,South Africa,0.89
+Stage4B500k-2026-05-05T20-00-42Z-653,male,0.53,34,adult,UG,Uganda,0.90
+Stage4B500k-2026-05-05T20-00-42Z-654,female,0.54,35,adult,TZ,Tanzania,0.91
+Stage4B500k-2026-05-05T20-00-42Z-655,male,0.55,36,adult,SN,Senegal,0.92
+Stage4B500k-2026-05-05T20-00-42Z-656,female,0.56,37,adult,CM,Cameroon,0.93
+Stage4B500k-2026-05-05T20-00-42Z-657,male,0.57,38,adult,NG,Nigeria,0.94
+Stage4B500k-2026-05-05T20-00-42Z-658,female,0.58,39,adult,GH,Ghana,0.95
+Stage4B500k-2026-05-05T20-00-42Z-659,male,0.59,40,adult,KE,Kenya,0.96
+Stage4B500k-2026-05-05T20-00-42Z-660,female,0.60,41,adult,ZA,South Africa,0.97
+Stage4B500k-2026-05-05T20-00-42Z-661,male,0.61,42,adult,UG,Uganda,0.98
+Stage4B500k-2026-05-05T20-00-42Z-662,female,0.62,43,adult,TZ,Tanzania,0.99
+Stage4B500k-2026-05-05T20-00-42Z-663,male,0.63,44,adult,SN,Senegal,1.00
+Stage4B500k-2026-05-05T20-00-42Z-664,female,0.64,45,adult,CM,Cameroon,0.01
+Stage4B500k-2026-05-05T20-00-42Z-665,male,0.65,46,adult,NG,Nigeria,0.02
+Stage4B500k-2026-05-05T20-00-42Z-666,female,0.66,47,adult,GH,Ghana,0.03
+Stage4B500k-2026-05-05T20-00-42Z-667,male,0.67,48,adult,KE,Kenya,0.04
+Stage4B500k-2026-05-05T20-00-42Z-668,female,0.68,49,adult,ZA,South Africa,0.05
+Stage4B500k-2026-05-05T20-00-42Z-669,male,0.69,50,adult,UG,Uganda,0.06
+Stage4B500k-2026-05-05T20-00-42Z-670,female,0.70,51,adult,TZ,Tanzania,0.07
+Stage4B500k-2026-05-05T20-00-42Z-671,male,0.71,52,adult,SN,Senegal,0.08
+Stage4B500k-2026-05-05T20-00-42Z-672,female,0.72,53,adult,CM,Cameroon,0.09
+Stage4B500k-2026-05-05T20-00-42Z-673,male,0.73,54,adult,NG,Nigeria,0.10
+Stage4B500k-2026-05-05T20-00-42Z-674,female,0.74,55,adult,GH,Ghana,0.11
+Stage4B500k-2026-05-05T20-00-42Z-675,male,0.75,56,adult,KE,Kenya,0.12
+Stage4B500k-2026-05-05T20-00-42Z-676,female,0.76,57,adult,ZA,South Africa,0.13
+Stage4B500k-2026-05-05T20-00-42Z-677,male,0.77,58,adult,UG,Uganda,0.14
+Stage4B500k-2026-05-05T20-00-42Z-678,female,0.78,59,adult,TZ,Tanzania,0.15
+Stage4B500k-2026-05-05T20-00-42Z-679,male,0.79,60,adult,SN,Senegal,0.16
+Stage4B500k-2026-05-05T20-00-42Z-680,female,0.80,61,adult,CM,Cameroon,0.17
+Stage4B500k-2026-05-05T20-00-42Z-681,male,0.81,62,adult,NG,Nigeria,0.18
+Stage4B500k-2026-05-05T20-00-42Z-682,female,0.82,63,adult,GH,Ghana,0.19
+Stage4B500k-2026-05-05T20-00-42Z-683,male,0.83,64,adult,KE,Kenya,0.20
+Stage4B500k-2026-05-05T20-00-42Z-684,female,0.84,65,adult,ZA,South Africa,0.21
+Stage4B500k-2026-05-05T20-00-42Z-685,male,0.85,66,adult,UG,Uganda,0.22
+Stage4B500k-2026-05-05T20-00-42Z-686,female,0.86,67,adult,TZ,Tanzania,0.23
+Stage4B500k-2026-05-05T20-00-42Z-687,male,0.87,68,adult,SN,Senegal,0.24
+Stage4B500k-2026-05-05T20-00-42Z-688,female,0.88,69,adult,CM,Cameroon,0.25
+Stage4B500k-2026-05-05T20-00-42Z-689,male,0.89,70,adult,NG,Nigeria,0.26
+Stage4B500k-2026-05-05T20-00-42Z-690,female,0.90,18,adult,GH,Ghana,0.27
+Stage4B500k-2026-05-05T20-00-42Z-691,male,0.91,19,adult,KE,Kenya,0.28
+Stage4B500k-2026-05-05T20-00-42Z-692,female,0.92,20,adult,ZA,South Africa,0.29
+Stage4B500k-2026-05-05T20-00-42Z-693,male,0.93,21,adult,UG,Uganda,0.30
+Stage4B500k-2026-05-05T20-00-42Z-694,female,0.94,22,adult,TZ,Tanzania,0.31
+Stage4B500k-2026-05-05T20-00-42Z-695,male,0.95,23,adult,SN,Senegal,0.32
+Stage4B500k-2026-05-05T20-00-42Z-696,female,0.96,24,adult,CM,Cameroon,0.33
+Stage4B500k-2026-05-05T20-00-42Z-697,male,0.97,25,adult,NG,Nigeria,0.34
+Stage4B500k-2026-05-05T20-00-42Z-698,female,0.98,26,adult,GH,Ghana,0.35
+Stage4B500k-2026-05-05T20-00-42Z-699,male,0.99,27,adult,KE,Kenya,0.36
+Stage4B500k-2026-05-05T20-00-42Z-700,female,1.00,28,adult,ZA,South Africa,0.37
+Stage4B500k-2026-05-05T20-00-42Z-701,male,0.01,29,adult,UG,Uganda,0.38
+Stage4B500k-2026-05-05T20-00-42Z-702,female,0.02,30,adult,TZ,Tanzania,0.39
+Stage4B500k-2026-05-05T20-00-42Z-703,male,0.03,31,adult,SN,Senegal,0.40
+Stage4B500k-2026-05-05T20-00-42Z-704,female,0.04,32,adult,CM,Cameroon,0.41
+Stage4B500k-2026-05-05T20-00-42Z-705,male,0.05,33,adult,NG,Nigeria,0.42
+Stage4B500k-2026-05-05T20-00-42Z-706,female,0.06,34,adult,GH,Ghana,0.43
+Stage4B500k-2026-05-05T20-00-42Z-707,male,0.07,35,adult,KE,Kenya,0.44
+Stage4B500k-2026-05-05T20-00-42Z-708,female,0.08,36,adult,ZA,South Africa,0.45
+Stage4B500k-2026-05-05T20-00-42Z-709,male,0.09,37,adult,UG,Uganda,0.46
+Stage4B500k-2026-05-05T20-00-42Z-710,female,0.10,38,adult,TZ,Tanzania,0.47
+Stage4B500k-2026-05-05T20-00-42Z-711,male,0.11,39,adult,SN,Senegal,0.48
+Stage4B500k-2026-05-05T20-00-42Z-712,female,0.12,40,adult,CM,Cameroon,0.49
+Stage4B500k-2026-05-05T20-00-42Z-713,male,0.13,41,adult,NG,Nigeria,0.50
+Stage4B500k-2026-05-05T20-00-42Z-714,female,0.14,42,adult,GH,Ghana,0.51
+Stage4B500k-2026-05-05T20-00-42Z-715,male,0.15,43,adult,KE,Kenya,0.52
+Stage4B500k-2026-05-05T20-00-42Z-716,female,0.16,44,adult,ZA,South Africa,0.53
+Stage4B500k-2026-05-05T20-00-42Z-717,male,0.17,45,adult,UG,Uganda,0.54
+Stage4B500k-2026-05-05T20-00-42Z-718,female,0.18,46,adult,TZ,Tanzania,0.55
+Stage4B500k-2026-05-05T20-00-42Z-719,male,0.19,47,adult,SN,Senegal,0.56
+Stage4B500k-2026-05-05T20-00-42Z-720,female,0.20,48,adult,CM,Cameroon,0.57
+Stage4B500k-2026-05-05T20-00-42Z-721,male,0.21,49,adult,NG,Nigeria,0.58
+Stage4B500k-2026-05-05T20-00-42Z-722,female,0.22,50,adult,GH,Ghana,0.59
+Stage4B500k-2026-05-05T20-00-42Z-723,male,0.23,51,adult,KE,Kenya,0.60
+Stage4B500k-2026-05-05T20-00-42Z-724,female,0.24,52,adult,ZA,South Africa,0.61
+Stage4B500k-2026-05-05T20-00-42Z-725,male,0.25,53,adult,UG,Uganda,0.62
+Stage4B500k-2026-05-05T20-00-42Z-726,female,0.26,54,adult,TZ,Tanzania,0.63
+Stage4B500k-2026-05-05T20-00-42Z-727,male,0.27,55,adult,SN,Senegal,0.64
+Stage4B500k-2026-05-05T20-00-42Z-728,female,0.28,56,adult,CM,Cameroon,0.65
+Stage4B500k-2026-05-05T20-00-42Z-729,male,0.29,57,adult,NG,Nigeria,0.66
+Stage4B500k-2026-05-05T20-00-42Z-730,female,0.30,58,adult,GH,Ghana,0.67
+Stage4B500k-2026-05-05T20-00-42Z-731,male,0.31,59,adult,KE,Kenya,0.68
+Stage4B500k-2026-05-05T20-00-42Z-732,female,0.32,60,adult,ZA,South Africa,0.69
+Stage4B500k-2026-05-05T20-00-42Z-733,male,0.33,61,adult,UG,Uganda,0.70
+Stage4B500k-2026-05-05T20-00-42Z-734,female,0.34,62,adult,TZ,Tanzania,0.71
+Stage4B500k-2026-05-05T20-00-42Z-735,male,0.35,63,adult,SN,Senegal,0.72
+Stage4B500k-2026-05-05T20-00-42Z-736,female,0.36,64,adult,CM,Cameroon,0.73
+Stage4B500k-2026-05-05T20-00-42Z-737,male,0.37,65,adult,NG,Nigeria,0.74
+Stage4B500k-2026-05-05T20-00-42Z-738,female,0.38,66,adult,GH,Ghana,0.75
+Stage4B500k-2026-05-05T20-00-42Z-739,male,0.39,67,adult,KE,Kenya,0.76
+Stage4B500k-2026-05-05T20-00-42Z-740,female,0.40,68,adult,ZA,South Africa,0.77
+Stage4B500k-2026-05-05T20-00-42Z-741,male,0.41,69,adult,UG,Uganda,0.78
+Stage4B500k-2026-05-05T20-00-42Z-742,female,0.42,70,adult,TZ,Tanzania,0.79
+Stage4B500k-2026-05-05T20-00-42Z-743,male,0.43,18,adult,SN,Senegal,0.80
+Stage4B500k-2026-05-05T20-00-42Z-744,female,0.44,19,adult,CM,Cameroon,0.81
+Stage4B500k-2026-05-05T20-00-42Z-745,male,0.45,20,adult,NG,Nigeria,0.82
+Stage4B500k-2026-05-05T20-00-42Z-746,female,0.46,21,adult,GH,Ghana,0.83
+Stage4B500k-2026-05-05T20-00-42Z-747,male,0.47,22,adult,KE,Kenya,0.84
+Stage4B500k-2026-05-05T20-00-42Z-748,female,0.48,23,adult,ZA,South Africa,0.85
+Stage4B500k-2026-05-05T20-00-42Z-749,male,0.49,24,adult,UG,Uganda,0.86
+Stage4B500k-2026-05-05T20-00-42Z-750,female,0.50,25,adult,TZ,Tanzania,0.87
+Stage4B500k-2026-05-05T20-00-42Z-751,male,0.51,26,adult,SN,Senegal,0.88
+Stage4B500k-2026-05-05T20-00-42Z-752,female,0.52,27,adult,CM,Cameroon,0.89
+Stage4B500k-2026-05-05T20-00-42Z-753,male,0.53,28,adult,NG,Nigeria,0.90
+Stage4B500k-2026-05-05T20-00-42Z-754,female,0.54,29,adult,GH,Ghana,0.91
+Stage4B500k-2026-05-05T20-00-42Z-755,male,0.55,30,adult,KE,Kenya,0.92
+Stage4B500k-2026-05-05T20-00-42Z-756,female,0.56,31,adult,ZA,South Africa,0.93
+Stage4B500k-2026-05-05T20-00-42Z-757,male,0.57,32,adult,UG,Uganda,0.94
+Stage4B500k-2026-05-05T20-00-42Z-758,female,0.58,33,adult,TZ,Tanzania,0.95
+Stage4B500k-2026-05-05T20-00-42Z-759,male,0.59,34,adult,SN,Senegal,0.96
+Stage4B500k-2026-05-05T20-00-42Z-760,female,0.60,35,adult,CM,Cameroon,0.97
+Stage4B500k-2026-05-05T20-00-42Z-761,male,0.61,36,adult,NG,Nigeria,0.98
+Stage4B500k-2026-05-05T20-00-42Z-762,female,0.62,37,adult,GH,Ghana,0.99
+Stage4B500k-2026-05-05T20-00-42Z-763,male,0.63,38,adult,KE,Kenya,1.00
+Stage4B500k-2026-05-05T20-00-42Z-764,female,0.64,39,adult,ZA,South Africa,0.01
+Stage4B500k-2026-05-05T20-00-42Z-765,male,0.65,40,adult,UG,Uganda,0.02
+Stage4B500k-2026-05-05T20-00-42Z-766,female,0.66,41,adult,TZ,Tanzania,0.03
+Stage4B500k-2026-05-05T20-00-42Z-767,male,0.67,42,adult,SN,Senegal,0.04
+Stage4B500k-2026-05-05T20-00-42Z-768,female,0.68,43,adult,CM,Cameroon,0.05
+Stage4B500k-2026-05-05T20-00-42Z-769,male,0.69,44,adult,NG,Nigeria,0.06
+Stage4B500k-2026-05-05T20-00-42Z-770,female,0.70,45,adult,GH,Ghana,0.07
+Stage4B500k-2026-05-05T20-00-42Z-771,male,0.71,46,adult,KE,Kenya,0.08
+Stage4B500k-2026-05-05T20-00-42Z-772,female,0.72,47,adult,ZA,South Africa,0.09
+Stage4B500k-2026-05-05T20-00-42Z-773,male,0.73,48,adult,UG,Uganda,0.10
+Stage4B500k-2026-05-05T20-00-42Z-774,female,0.74,49,adult,TZ,Tanzania,0.11
+Stage4B500k-2026-05-05T20-00-42Z-775,male,0.75,50,adult,SN,Senegal,0.12
+Stage4B500k-2026-05-05T20-00-42Z-776,female,0.76,51,adult,CM,Cameroon,0.13
+Stage4B500k-2026-05-05T20-00-42Z-777,male,0.77,52,adult,NG,Nigeria,0.14
+Stage4B500k-2026-05-05T20-00-42Z-778,female,0.78,53,adult,GH,Ghana,0.15
+Stage4B500k-2026-05-05T20-00-42Z-779,male,0.79,54,adult,KE,Kenya,0.16
+Stage4B500k-2026-05-05T20-00-42Z-780,female,0.80,55,adult,ZA,South Africa,0.17
+Stage4B500k-2026-05-05T20-00-42Z-781,male,0.81,56,adult,UG,Uganda,0.18
+Stage4B500k-2026-05-05T20-00-42Z-782,female,0.82,57,adult,TZ,Tanzania,0.19
+Stage4B500k-2026-05-05T20-00-42Z-783,male,0.83,58,adult,SN,Senegal,0.20
+Stage4B500k-2026-05-05T20-00-42Z-784,female,0.84,59,adult,CM,Cameroon,0.21
+Stage4B500k-2026-05-05T20-00-42Z-785,male,0.85,60,adult,NG,Nigeria,0.22
+Stage4B500k-2026-05-05T20-00-42Z-786,female,0.86,61,adult,GH,Ghana,0.23
+Stage4B500k-2026-05-05T20-00-42Z-787,male,0.87,62,adult,KE,Kenya,0.24
+Stage4B500k-2026-05-05T20-00-42Z-788,female,0.88,63,adult,ZA,South Africa,0.25
+Stage4B500k-2026-05-05T20-00-42Z-789,male,0.89,64,adult,UG,Uganda,0.26
+Stage4B500k-2026-05-05T20-00-42Z-790,female,0.90,65,adult,TZ,Tanzania,0.27
+Stage4B500k-2026-05-05T20-00-42Z-791,male,0.91,66,adult,SN,Senegal,0.28
+Stage4B500k-2026-05-05T20-00-42Z-792,female,0.92,67,adult,CM,Cameroon,0.29
+Stage4B500k-2026-05-05T20-00-42Z-793,male,0.93,68,adult,NG,Nigeria,0.30
+Stage4B500k-2026-05-05T20-00-42Z-794,female,0.94,69,adult,GH,Ghana,0.31
+Stage4B500k-2026-05-05T20-00-42Z-795,male,0.95,70,adult,KE,Kenya,0.32
+Stage4B500k-2026-05-05T20-00-42Z-796,female,0.96,18,adult,ZA,South Africa,0.33
+Stage4B500k-2026-05-05T20-00-42Z-797,male,0.97,19,adult,UG,Uganda,0.34
+Stage4B500k-2026-05-05T20-00-42Z-798,female,0.98,20,adult,TZ,Tanzania,0.35
+Stage4B500k-2026-05-05T20-00-42Z-799,male,0.99,21,adult,SN,Senegal,0.36
+Stage4B500k-2026-05-05T20-00-42Z-800,female,1.00,22,adult,CM,Cameroon,0.37
+Stage4B500k-2026-05-05T20-00-42Z-801,male,0.01,23,adult,NG,Nigeria,0.38
+Stage4B500k-2026-05-05T20-00-42Z-802,female,0.02,24,adult,GH,Ghana,0.39
+Stage4B500k-2026-05-05T20-00-42Z-803,male,0.03,25,adult,KE,Kenya,0.40
+Stage4B500k-2026-05-05T20-00-42Z-804,female,0.04,26,adult,ZA,South Africa,0.41
+Stage4B500k-2026-05-05T20-00-42Z-805,male,0.05,27,adult,UG,Uganda,0.42
+Stage4B500k-2026-05-05T20-00-42Z-806,female,0.06,28,adult,TZ,Tanzania,0.43
+Stage4B500k-2026-05-05T20-00-42Z-807,male,0.07,29,adult,SN,Senegal,0.44
+Stage4B500k-2026-05-05T20-00-42Z-808,female,0.08,30,adult,CM,Cameroon,0.45
+Stage4B500k-2026-05-05T20-00-42Z-809,male,0.09,31,adult,NG,Nigeria,0.46
+Stage4B500k-2026-05-05T20-00-42Z-810,female,0.10,32,adult,GH,Ghana,0.47
+Stage4B500k-2026-05-05T20-00-42Z-811,male,0.11,33,adult,KE,Kenya,0.48
+Stage4B500k-2026-05-05T20-00-42Z-812,female,0.12,34,adult,ZA,South Africa,0.49
+Stage4B500k-2026-05-05T20-00-42Z-813,male,0.13,35,adult,UG,Uganda,0.50
+Stage4B500k-2026-05-05T20-00-42Z-814,female,0.14,36,adult,TZ,Tanzania,0.51
+Stage4B500k-2026-05-05T20-00-42Z-815,male,0.15,37,adult,SN,Senegal,0.52
+Stage4B500k-2026-05-05T20-00-42Z-816,female,0.16,38,adult,CM,Cameroon,0.53
+Stage4B500k-2026-05-05T20-00-42Z-817,male,0.17,39,adult,NG,Nigeria,0.54
+Stage4B500k-2026-05-05T20-00-42Z-818,female,0.18,40,adult,GH,Ghana,0.55
+Stage4B500k-2026-05-05T20-00-42Z-819,male,0.19,41,adult,KE,Kenya,0.56
+Stage4B500k-2026-05-05T20-00-42Z-820,female,0.20,42,adult,ZA,South Africa,0.57
+Stage4B500k-2026-05-05T20-00-42Z-821,male,0.21,43,adult,UG,Uganda,0.58
+Stage4B500k-2026-05-05T20-00-42Z-822,female,0.22,44,adult,TZ,Tanzania,0.59
+Stage4B500k-2026-05-05T20-00-42Z-823,male,0.23,45,adult,SN,Senegal,0.60
+Stage4B500k-2026-05-05T20-00-42Z-824,female,0.24,46,adult,CM,Cameroon,0.61
+Stage4B500k-2026-05-05T20-00-42Z-825,male,0.25,47,adult,NG,Nigeria,0.62
+Stage4B500k-2026-05-05T20-00-42Z-826,female,0.26,48,adult,GH,Ghana,0.63
+Stage4B500k-2026-05-05T20-00-42Z-827,male,0.27,49,adult,KE,Kenya,0.64
+Stage4B500k-2026-05-05T20-00-42Z-828,female,0.28,50,adult,ZA,South Africa,0.65
+Stage4B500k-2026-05-05T20-00-42Z-829,male,0.29,51,adult,UG,Uganda,0.66
+Stage4B500k-2026-05-05T20-00-42Z-830,female,0.30,52,adult,TZ,Tanzania,0.67
+Stage4B500k-2026-05-05T20-00-42Z-831,male,0.31,53,adult,SN,Senegal,0.68
+Stage4B500k-2026-05-05T20-00-42Z-832,female,0.32,54,adult,CM,Cameroon,0.69
+Stage4B500k-2026-05-05T20-00-42Z-833,male,0.33,55,adult,NG,Nigeria,0.70
+Stage4B500k-2026-05-05T20-00-42Z-834,female,0.34,56,adult,GH,Ghana,0.71
+Stage4B500k-2026-05-05T20-00-42Z-835,male,0.35,57,adult,KE,Kenya,0.72
+Stage4B500k-2026-05-05T20-00-42Z-836,female,0.36,58,adult,ZA,South Africa,0.73
+Stage4B500k-2026-05-05T20-00-42Z-837,male,0.37,59,adult,UG,Uganda,0.74
+Stage4B500k-2026-05-05T20-00-42Z-838,female,0.38,60,adult,TZ,Tanzania,0.75
+Stage4B500k-2026-05-05T20-00-42Z-839,male,0.39,61,adult,SN,Senegal,0.76
+Stage4B500k-2026-05-05T20-00-42Z-840,female,0.40,62,adult,CM,Cameroon,0.77
+Stage4B500k-2026-05-05T20-00-42Z-841,male,0.41,63,adult,NG,Nigeria,0.78
+Stage4B500k-2026-05-05T20-00-42Z-842,female,0.42,64,adult,GH,Ghana,0.79
+Stage4B500k-2026-05-05T20-00-42Z-843,male,0.43,65,adult,KE,Kenya,0.80
+Stage4B500k-2026-05-05T20-00-42Z-844,female,0.44,66,adult,ZA,South Africa,0.81
+Stage4B500k-2026-05-05T20-00-42Z-845,male,0.45,67,adult,UG,Uganda,0.82
+Stage4B500k-2026-05-05T20-00-42Z-846,female,0.46,68,adult,TZ,Tanzania,0.83
+Stage4B500k-2026-05-05T20-00-42Z-847,male,0.47,69,adult,SN,Senegal,0.84
+Stage4B500k-2026-05-05T20-00-42Z-848,female,0.48,70,adult,CM,Cameroon,0.85
+Stage4B500k-2026-05-05T20-00-42Z-849,male,0.49,18,adult,NG,Nigeria,0.86
+Stage4B500k-2026-05-05T20-00-42Z-850,female,0.50,19,adult,GH,Ghana,0.87
+Stage4B500k-2026-05-05T20-00-42Z-851,male,0.51,20,adult,KE,Kenya,0.88
+Stage4B500k-2026-05-05T20-00-42Z-852,female,0.52,21,adult,ZA,South Africa,0.89
+Stage4B500k-2026-05-05T20-00-42Z-853,male,0.53,22,adult,UG,Uganda,0.90
+Stage4B500k-2026-05-05T20-00-42Z-854,female,0.54,23,adult,TZ,Tanzania,0.91
+Stage4B500k-2026-05-05T20-00-42Z-855,male,0.55,24,adult,SN,Senegal,0.92
+Stage4B500k-2026-05-05T20-00-42Z-856,female,0.56,25,adult,CM,Cameroon,0.93
+Stage4B500k-2026-05-05T20-00-42Z-857,male,0.57,26,adult,NG,Nigeria,0.94
+Stage4B500k-2026-05-05T20-00-42Z-858,female,0.58,27,adult,GH,Ghana,0.95
+Stage4B500k-2026-05-05T20-00-42Z-859,male,0.59,28,adult,KE,Kenya,0.96
+Stage4B500k-2026-05-05T20-00-42Z-860,female,0.60,29,adult,ZA,South Africa,0.97
+Stage4B500k-2026-05-05T20-00-42Z-861,male,0.61,30,adult,UG,Uganda,0.98
+Stage4B500k-2026-05-05T20-00-42Z-862,female,0.62,31,adult,TZ,Tanzania,0.99
+Stage4B500k-2026-05-05T20-00-42Z-863,male,0.63,32,adult,SN,Senegal,1.00
+Stage4B500k-2026-05-05T20-00-42Z-864,female,0.64,33,adult,CM,Cameroon,0.01
+Stage4B500k-2026-05-05T20-00-42Z-865,male,0.65,34,adult,NG,Nigeria,0.02
+Stage4B500k-2026-05-05T20-00-42Z-866,female,0.66,35,adult,GH,Ghana,0.03
+Stage4B500k-2026-05-05T20-00-42Z-867,male,0.67,36,adult,KE,Kenya,0.04
+Stage4B500k-2026-05-05T20-00-42Z-868,female,0.68,37,adult,ZA,South Africa,0.05
+Stage4B500k-2026-05-05T20-00-42Z-869,male,0.69,38,adult,UG,Uganda,0.06
+Stage4B500k-2026-05-05T20-00-42Z-870,female,0.70,39,adult,TZ,Tanzania,0.07
+Stage4B500k-2026-05-05T20-00-42Z-871,male,0.71,40,adult,SN,Senegal,0.08
+Stage4B500k-2026-05-05T20-00-42Z-872,female,0.72,41,adult,CM,Cameroon,0.09
+Stage4B500k-2026-05-05T20-00-42Z-873,male,0.73,42,adult,NG,Nigeria,0.10
+Stage4B500k-2026-05-05T20-00-42Z-874,female,0.74,43,adult,GH,Ghana,0.11
+Stage4B500k-2026-05-05T20-00-42Z-875,male,0.75,44,adult,KE,Kenya,0.12
+Stage4B500k-2026-05-05T20-00-42Z-876,female,0.76,45,adult,ZA,South Africa,0.13
+Stage4B500k-2026-05-05T20-00-42Z-877,male,0.77,46,adult,UG,Uganda,0.14
+Stage4B500k-2026-05-05T20-00-42Z-878,female,0.78,47,adult,TZ,Tanzania,0.15
+Stage4B500k-2026-05-05T20-00-42Z-879,male,0.79,48,adult,SN,Senegal,0.16
+Stage4B500k-2026-05-05T20-00-42Z-880,female,0.80,49,adult,CM,Cameroon,0.17
+Stage4B500k-2026-05-05T20-00-42Z-881,male,0.81,50,adult,NG,Nigeria,0.18
+Stage4B500k-2026-05-05T20-00-42Z-882,female,0.82,51,adult,GH,Ghana,0.19
+Stage4B500k-2026-05-05T20-00-42Z-883,male,0.83,52,adult,KE,Kenya,0.20
+Stage4B500k-2026-05-05T20-00-42Z-884,female,0.84,53,adult,ZA,South Africa,0.21
+Stage4B500k-2026-05-05T20-00-42Z-885,male,0.85,54,adult,UG,Uganda,0.22
+Stage4B500k-2026-05-05T20-00-42Z-886,female,0.86,55,adult,TZ,Tanzania,0.23
+Stage4B500k-2026-05-05T20-00-42Z-887,male,0.87,56,adult,SN,Senegal,0.24
+Stage4B500k-2026-05-05T20-00-42Z-888,female,0.88,57,adult,CM,Cameroon,0.25
+Stage4B500k-2026-05-05T20-00-42Z-889,male,0.89,58,adult,NG,Nigeria,0.26
+Stage4B500k-2026-05-05T20-00-42Z-890,female,0.90,59,adult,GH,Ghana,0.27
+Stage4B500k-2026-05-05T20-00-42Z-891,male,0.91,60,adult,KE,Kenya,0.28
+Stage4B500k-2026-05-05T20-00-42Z-892,female,0.92,61,adult,ZA,South Africa,0.29
+Stage4B500k-2026-05-05T20-00-42Z-893,male,0.93,62,adult,UG,Uganda,0.30
+Stage4B500k-2026-05-05T20-00-42Z-894,female,0.94,63,adult,TZ,Tanzania,0.31
+Stage4B500k-2026-05-05T20-00-42Z-895,male,0.95,64,adult,SN,Senegal,0.32
+Stage4B500k-2026-05-05T20-00-42Z-896,female,0.96,65,adult,CM,Cameroon,0.33
+Stage4B500k-2026-05-05T20-00-42Z-897,male,0.97,66,adult,NG,Nigeria,0.34
+Stage4B500k-2026-05-05T20-00-42Z-898,female,0.98,67,adult,GH,Ghana,0.35
+Stage4B500k-2026-05-05T20-00-42Z-899,male,0.99,68,adult,KE,Kenya,0.36
+Stage4B500k-2026-05-05T20-00-42Z-900,female,1.00,69,adult,ZA,South Africa,0.37
+Stage4B500k-2026-05-05T20-00-42Z-901,male,0.01,70,adult,UG,Uganda,0.38
+Stage4B500k-2026-05-05T20-00-42Z-902,female,0.02,18,adult,TZ,Tanzania,0.39
+Stage4B500k-2026-05-05T20-00-42Z-903,male,0.03,19,adult,SN,Senegal,0.40
+Stage4B500k-2026-05-05T20-00-42Z-904,female,0.04,20,adult,CM,Cameroon,0.41
+Stage4B500k-2026-05-05T20-00-42Z-905,male,0.05,21,adult,NG,Nigeria,0.42
+Stage4B500k-2026-05-05T20-00-42Z-906,female,0.06,22,adult,GH,Ghana,0.43
+Stage4B500k-2026-05-05T20-00-42Z-907,male,0.07,23,adult,KE,Kenya,0.44
+Stage4B500k-2026-05-05T20-00-42Z-908,female,0.08,24,adult,ZA,South Africa,0.45
+Stage4B500k-2026-05-05T20-00-42Z-909,male,0.09,25,adult,UG,Uganda,0.46
+Stage4B500k-2026-05-05T20-00-42Z-910,female,0.10,26,adult,TZ,Tanzania,0.47
+Stage4B500k-2026-05-05T20-00-42Z-911,male,0.11,27,adult,SN,Senegal,0.48
+Stage4B500k-2026-05-05T20-00-42Z-912,female,0.12,28,adult,CM,Cameroon,0.49
+Stage4B500k-2026-05-05T20-00-42Z-913,male,0.13,29,adult,NG,Nigeria,0.50
+Stage4B500k-2026-05-05T20-00-42Z-914,female,0.14,30,adult,GH,Ghana,0.51
+Stage4B500k-2026-05-05T20-00-42Z-915,male,0.15,31,adult,KE,Kenya,0.52
+Stage4B500k-2026-05-05T20-00-42Z-916,female,0.16,32,adult,ZA,South Africa,0.53
+Stage4B500k-2026-05-05T20-00-42Z-917,male,0.17,33,adult,UG,Uganda,0.54
+Stage4B500k-2026-05-05T20-00-42Z-918,female,0.18,34,adult,TZ,Tanzania,0.55
+Stage4B500k-2026-05-05T20-00-42Z-919,male,0.19,35,adult,SN,Senegal,0.56
+Stage4B500k-2026-05-05T20-00-42Z-920,female,0.20,36,adult,CM,Cameroon,0.57
+Stage4B500k-2026-05-05T20-00-42Z-921,male,0.21,37,adult,NG,Nigeria,0.58
+Stage4B500k-2026-05-05T20-00-42Z-922,female,0.22,38,adult,GH,Ghana,0.59
+Stage4B500k-2026-05-05T20-00-42Z-923,male,0.23,39,adult,KE,Kenya,0.60
+Stage4B500k-2026-05-05T20-00-42Z-924,female,0.24,40,adult,ZA,South Africa,0.61
+Stage4B500k-2026-05-05T20-00-42Z-925,male,0.25,41,adult,UG,Uganda,0.62
+Stage4B500k-2026-05-05T20-00-42Z-926,female,0.26,42,adult,TZ,Tanzania,0.63
+Stage4B500k-2026-05-05T20-00-42Z-927,male,0.27,43,adult,SN,Senegal,0.64
+Stage4B500k-2026-05-05T20-00-42Z-928,female,0.28,44,adult,CM,Cameroon,0.65
+Stage4B500k-2026-05-05T20-00-42Z-929,male,0.29,45,adult,NG,Nigeria,0.66
+Stage4B500k-2026-05-05T20-00-42Z-930,female,0.30,46,adult,GH,Ghana,0.67
+Stage4B500k-2026-05-05T20-00-42Z-931,male,0.31,47,adult,KE,Kenya,0.68
+Stage4B500k-2026-05-05T20-00-42Z-932,female,0.32,48,adult,ZA,South Africa,0.69
+Stage4B500k-2026-05-05T20-00-42Z-933,male,0.33,49,adult,UG,Uganda,0.70
+Stage4B500k-2026-05-05T20-00-42Z-934,female,0.34,50,adult,TZ,Tanzania,0.71
+Stage4B500k-2026-05-05T20-00-42Z-935,male,0.35,51,adult,SN,Senegal,0.72
+Stage4B500k-2026-05-05T20-00-42Z-936,female,0.36,52,adult,CM,Cameroon,0.73
+Stage4B500k-2026-05-05T20-00-42Z-937,male,0.37,53,adult,NG,Nigeria,0.74
+Stage4B500k-2026-05-05T20-00-42Z-938,female,0.38,54,adult,GH,Ghana,0.75
+Stage4B500k-2026-05-05T20-00-42Z-939,male,0.39,55,adult,KE,Kenya,0.76
+Stage4B500k-2026-05-05T20-00-42Z-940,female,0.40,56,adult,ZA,South Africa,0.77
+Stage4B500k-2026-05-05T20-00-42Z-941,male,0.41,57,adult,UG,Uganda,0.78
+Stage4B500k-2026-05-05T20-00-42Z-942,female,0.42,58,adult,TZ,Tanzania,0.79
+Stage4B500k-2026-05-05T20-00-42Z-943,male,0.43,59,adult,SN,Senegal,0.80
+Stage4B500k-2026-05-05T20-00-42Z-944,female,0.44,60,adult,CM,Cameroon,0.81
+Stage4B500k-2026-05-05T20-00-42Z-945,male,0.45,61,adult,NG,Nigeria,0.82
+Stage4B500k-2026-05-05T20-00-42Z-946,female,0.46,62,adult,GH,Ghana,0.83
+Stage4B500k-2026-05-05T20-00-42Z-947,male,0.47,63,adult,KE,Kenya,0.84
+Stage4B500k-2026-05-05T20-00-42Z-948,female,0.48,64,adult,ZA,South Africa,0.85
+Stage4B500k-2026-05-05T20-00-42Z-949,male,0.49,65,adult,UG,Uganda,0.86
+Stage4B500k-2026-05-05T20-00-42Z-950,female,0.50,66,adult,TZ,Tanzania,0.87
+Stage4B500k-2026-05-05T20-00-42Z-951,male,0.51,67,adult,SN,Senegal,0.88
+Stage4B500k-2026-05-05T20-00-42Z-952,female,0.52,68,adult,CM,Cameroon,0.89
+Stage4B500k-2026-05-05T20-00-42Z-953,male,0.53,69,adult,NG,Nigeria,0.90
+Stage4B500k-2026-05-05T20-00-42Z-954,female,0.54,70,adult,GH,Ghana,0.91
+Stage4B500k-2026-05-05T20-00-42Z-955,male,0.55,18,adult,KE,Kenya,0.92
+Stage4B500k-2026-05-05T20-00-42Z-956,female,0.56,19,adult,ZA,South Africa,0.93
+Stage4B500k-2026-05-05T20-00-42Z-957,male,0.57,20,adult,UG,Uganda,0.94
+Stage4B500k-2026-05-05T20-00-42Z-958,female,0.58,21,adult,TZ,Tanzania,0.95
+Stage4B500k-2026-05-05T20-00-42Z-959,male,0.59,22,adult,SN,Senegal,0.96
+Stage4B500k-2026-05-05T20-00-42Z-960,female,0.60,23,adult,CM,Cameroon,0.97
+Stage4B500k-2026-05-05T20-00-42Z-961,male,0.61,24,adult,NG,Nigeria,0.98
+Stage4B500k-2026-05-05T20-00-42Z-962,female,0.62,25,adult,GH,Ghana,0.99
+Stage4B500k-2026-05-05T20-00-42Z-963,male,0.63,26,adult,KE,Kenya,1.00
+Stage4B500k-2026-05-05T20-00-42Z-964,female,0.64,27,adult,ZA,South Africa,0.01
+Stage4B500k-2026-05-05T20-00-42Z-965,male,0.65,28,adult,UG,Uganda,0.02
+Stage4B500k-2026-05-05T20-00-42Z-966,female,0.66,29,adult,TZ,Tanzania,0.03
+Stage4B500k-2026-05-05T20-00-42Z-967,male,0.67,30,adult,SN,Senegal,0.04
+Stage4B500k-2026-05-05T20-00-42Z-968,female,0.68,31,adult,CM,Cameroon,0.05
+Stage4B500k-2026-05-05T20-00-42Z-969,male,0.69,32,adult,NG,Nigeria,0.06
+Stage4B500k-2026-05-05T20-00-42Z-970,female,0.70,33,adult,GH,Ghana,0.07
+Stage4B500k-2026-05-05T20-00-42Z-971,male,0.71,34,adult,KE,Kenya,0.08
+Stage4B500k-2026-05-05T20-00-42Z-972,female,0.72,35,adult,ZA,South Africa,0.09
+Stage4B500k-2026-05-05T20-00-42Z-973,male,0.73,36,adult,UG,Uganda,0.10
+Stage4B500k-2026-05-05T20-00-42Z-974,female,0.74,37,adult,TZ,Tanzania,0.11
+Stage4B500k-2026-05-05T20-00-42Z-975,male,0.75,38,adult,SN,Senegal,0.12
+Stage4B500k-2026-05-05T20-00-42Z-976,female,0.76,39,adult,CM,Cameroon,0.13
+Stage4B500k-2026-05-05T20-00-42Z-977,male,0.77,40,adult,NG,Nigeria,0.14
+Stage4B500k-2026-05-05T20-00-42Z-978,female,0.78,41,adult,GH,Ghana,0.15
+Stage4B500k-2026-05-05T20-00-42Z-979,male,0.79,42,adult,KE,Kenya,0.16
+Stage4B500k-2026-05-05T20-00-42Z-980,female,0.80,43,adult,ZA,South Africa,0.17
+Stage4B500k-2026-05-05T20-00-42Z-981,male,0.81,44,adult,UG,Uganda,0.18
+Stage4B500k-2026-05-05T20-00-42Z-982,female,0.82,45,adult,TZ,Tanzania,0.19
+Stage4B500k-2026-05-05T20-00-42Z-983,male,0.83,46,adult,SN,Senegal,0.20
+Stage4B500k-2026-05-05T20-00-42Z-984,female,0.84,47,adult,CM,Cameroon,0.21
+Stage4B500k-2026-05-05T20-00-42Z-985,male,0.85,48,adult,NG,Nigeria,0.22
+Stage4B500k-2026-05-05T20-00-42Z-986,female,0.86,49,adult,GH,Ghana,0.23
+Stage4B500k-2026-05-05T20-00-42Z-987,male,0.87,50,adult,KE,Kenya,0.24
+Stage4B500k-2026-05-05T20-00-42Z-988,female,0.88,51,adult,ZA,South Africa,0.25
+Stage4B500k-2026-05-05T20-00-42Z-989,male,0.89,52,adult,UG,Uganda,0.26
+Stage4B500k-2026-05-05T20-00-42Z-990,female,0.90,53,adult,TZ,Tanzania,0.27
+Stage4B500k-2026-05-05T20-00-42Z-991,male,0.91,54,adult,SN,Senegal,0.28
+Stage4B500k-2026-05-05T20-00-42Z-992,female,0.92,55,adult,CM,Cameroon,0.29
+Stage4B500k-2026-05-05T20-00-42Z-993,male,0.93,56,adult,NG,Nigeria,0.30
+Stage4B500k-2026-05-05T20-00-42Z-994,female,0.94,57,adult,GH,Ghana,0.31
+Stage4B500k-2026-05-05T20-00-42Z-995,male,0.95,58,adult,KE,Kenya,0.32
+Stage4B500k-2026-05-05T20-00-42Z-996,female,0.96,59,adult,ZA,South Africa,0.33
+Stage4B500k-2026-05-05T20-00-42Z-997,male,0.97,60,adult,UG,Uganda,0.34
+Stage4B500k-2026-05-05T20-00-42Z-998,female,0.98,61,adult,TZ,Tanzania,0.35
+Stage4B500k-2026-05-05T20-00-42Z-999,male,0.99,62,adult,SN,Senegal,0.36
+Stage4B500k-2026-05-05T20-00-42Z-1000,female,1.00,63,adult,CM,Cameroon,0.37

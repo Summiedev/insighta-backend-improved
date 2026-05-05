@@ -1,0 +1,56 @@
+{
+  "rewrites": [
+    {
+      "source": "/auth/github",
+      "destination": "/api/v1/auth/github/login"
+    },
+    {
+      "source": "/auth/github/callback",
+      "destination": "/api/v1/auth/github/callback"
+    },
+    {
+      "source": "/auth/me",
+      "destination": "/api/v1/auth/me"
+    },
+    {
+      "source": "/api/users/me",
+      "destination": "/api/v1/auth/me"
+    },
+    {
+      "source": "/auth/refresh",
+      "destination": "/api/v1/auth/refresh"
+    },
+    {
+      "source": "/auth/logout",
+      "destination": "/api/v1/auth/logout"
+    },
+    {
+      "source": "/health",
+      "destination": "/api/health"
+    },
+    {
+      "source": "/seed",
+      "destination": "/api/seed"
+    },
+    {
+      "source": "/api/profiles/:id",
+      "destination": "/api/profiles?id=:id"
+    },
+    {
+      "source": "/api/v1/profiles",
+      "destination": "/api/profiles"
+    },
+    {
+      "source": "/api/v1/profiles/:id",
+      "destination": "/api/profiles?id=:id"
+    },
+    {
+      "source": "/api/v1/profiles/search",
+      "destination": "/api/profiles/search"
+    },
+    {
+      "source": "/api/v1/profiles/export",
+      "destination": "/api/profiles/export"
+    }
+  ]
+}
