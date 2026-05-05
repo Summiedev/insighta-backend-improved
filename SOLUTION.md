@@ -191,15 +191,6 @@ Expected response shape:
 
 The CSV upload route returns a summary object instead of the paginated list shape.
 
-## Strict Submission Position
-
-If you are defending the submission, the honest claim is:
-
-- The performance and normalization work is implemented for the profile query family
-- The optimization boundary is intentionally limited to routes that benefit from repeated query reuse
-- Auth, health, and seed routes remain outside the Stage 4B optimization scope
-
-
 
 ## Bottom Line
 
